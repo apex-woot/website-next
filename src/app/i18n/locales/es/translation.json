@@ -1,0 +1,823 @@
+{
+    "basicShortForm": {
+        "formHeader1": "Únete ahora GRATIS",
+        "formHeader2": "para comenzar",
+        "heroHeader1": "Gana más trabajos con",
+        "heroHeader2": "un sitio web",
+        "heroHeader3": "centrado en el cliente."
+    },
+    "common": {
+        "brandManagement": "Gestión de marca",
+        "dashboard": "Dashboard",
+        "form": {
+            "emailLabel": "Dirección de correo electrónico",
+            "emailPlaceholder": "Ingresa tu dirección de correo electrónico",
+            "error": "Algo salió mal. ¡Inténtalo de nuevo!",
+            "fullNameLabel": "Nombre completo",
+            "fullNamePlaceholder": "Ingresa tu nombre completo",
+            "phoneNumberLabel": "Número de teléfono",
+            "phoneNumberPlaceholder": "Ingresa tu número de teléfono",
+            "required": "Requerido",
+            "srCountry": "País"
+        },
+        "getStarted": "Empezar",
+        "getStartedButton": "Empezar gratis",
+        "onlinePresence": "Te ayudaremos a llevar tu presencia en línea al siguiente nivel...",
+        "pricing": {
+            "perMonth": "/mes",
+            "perMonthTooltip": "Pago mensual"
+        },
+        "reputationManagement": "Gestión de reputación",
+        "websiteManagment": "Gestión de sitios web"
+    },
+    "contact": {
+        "title": "Nos encantaría conectar"
+    },
+    "contactUs": {
+        "fbText": "Dale Me gusta en Facebook",
+        "igText": "Síguenos en Instagram"
+    },
+    "faqTemplateData": {
+        "answer1": "Ya sea que seas tú solo y tu camión o tengas un equipo de cientos, cómo te ven tus clientes es tu marca. No importa tu tamaño, te ayudaremos a construir reconocimiento de marca y una reputación estelar en línea y en el mundo real.",
+        "answer2": "Ya sea que seas tú solo y tu camión o tengas un equipo de cientos, cómo te ven tus clientes es tu marca. No importa tu tamaño, te ayudaremos a construir reconocimiento de marca y una reputación estelar en línea y en el mundo real.",
+        "answer3": "Ya sea que seas tú solo y tu camión o tengas un equipo de cientos, cómo te ven tus clientes es tu marca. No importa tu tamaño, te ayudaremos a construir reconocimiento de marca y una reputación estelar en línea y en el mundo real.",
+        "answer4": "Ya sea que seas tú solo y tu camión o tengas un equipo de cientos, cómo te ven tus clientes es tu marca. No importa tu tamaño, te ayudaremos a construir reconocimiento de marca y una reputación estelar en línea y en el mundo real.",
+        "answer5": "Ya sea que seas tú solo y tu camión o tengas un equipo de cientos, cómo te ven tus clientes es tu marca. No importa tu tamaño, te ayudaremos a construir reconocimiento de marca y una reputación estelar en línea y en el mundo real.",
+        "answer6": "Ya sea que seas tú solo y tu camión o tengas un equipo de cientos, cómo te ven tus clientes es tu marca. No importa tu tamaño, te ayudaremos a construir reconocimiento de marca y una reputación estelar en línea y en el mundo real.",
+        "question1": "¿Puedo cambiar o cancelar mi plan?",
+        "question2": "¿Ofrecen alguna garantía?",
+        "question3": "¿Cuánto tiempo tomará comenzar?",
+        "question4": "¿Puedo hacer cambios en mi sitio web o perfiles?",
+        "question5": "¿Cómo me ayuda un sitio web a llegar a más clientes?",
+        "question6": "No tengo una marca. Solo soy yo. ¿Realmente necesito estos servicios?"
+    },
+    "features": {
+        "subtitle": "trades.org está aquí para respaldarte",
+        "title": "Dirigir una empresa es difícil. Estamos aquí para ayudarte.",
+        "utils": {
+            "title1": "Sitio web y perfiles administrados",
+            "title2": "Recepcionista telefónico y por correo electrónico",
+            "title3": "Acceso a una red de subcontratistas calificados",
+            "title4": "Seguros de empresa y personales",
+            "title5": "Financiamiento de proyectos y personales",
+            "title6": "Facturación y cobros a clientes"
+        }
+    },
+    "footerUtils": {
+        "footerNavigations": {
+            "contact": "Contacto",
+            "pricing": "Precios",
+            "privacy": "Privacidad",
+            "terms": "Términos"
+        },
+        "forMarketing": {
+            "branding": "Diseño de logotipo, tarjetas de presentación y más",
+            "commsManagement": "Atención telefónica, por chat y correo electrónico",
+            "projectLeads": "Leads 'solo paga cuando cierres'",
+            "reputationManagement": "Gestión de opiniones y reputación",
+            "socialManagement": "Perfiles sociales, configuración y gestión",
+            "title": "Para Marketing",
+            "websiteManagement": "Sitio web optimizado para generar oportunidades"
+        },
+        "forOperations": {
+            "businessContracts": "Contratos estándar para proyectos y subcontratistas",
+            "businessInsurance": "Seguro de empresa por periodo o proyecto",
+            "materialsDiscounts": "Precios de materiales con descuento",
+            "projectBilling": "Facturación, cobros y gravámenes",
+            "projectFinancing": "Financiamiento de proyectos para tus clientes",
+            "staffingSupport": "Acceso a una red de subcontratistas calificados",
+            "title": "Para Operaciones"
+        },
+        "forYouandFamily": {
+            "businessLoans": "Financiamiento personal y para equipos",
+            "education": "Conserje educativo y recursos",
+            "partnerPerks": "Beneficios gratuitos y con descuento para socios",
+            "personalFinances": "Construcción de crédito y apoyo financiero",
+            "personalInsurance": "Seguro de salud, dental y visión personal",
+            "retirement": "Programas de jubilación con ventajas fiscales",
+            "title": "Para Ti y Tu Familia"
+        },
+        "headings": {
+            "forMarketing": "Para marketing",
+            "forOperations": "Para operaciones",
+            "forYouAndYourFamily": "Para ti y tu familia"
+        }
+    },
+    "formValidation": {
+        "invalidEmail": "Correo electrónico inválido",
+        "invalidFullName": "Nombre completo inválido",
+        "invalidPhone": "Número de teléfono inválido"
+    },
+    "freeForm": {
+        "form": {
+            "header1": "OFERTA POR TIEMPO LIMITADO:",
+            "header2": "RENUNCIA A LA TARIFA DE PUESTA EN MARCHA",
+            "subtitle": "Sitio web listo para lanzar GRATIS",
+            "title": "Obtén tu"
+        },
+        "hero": {
+            "alt": "anillo",
+            "header1": "OBTÉN TU SITIO WEB LISTO PARA Lanzar GRATIS AHORA:",
+            "header2": "RENUNCIA A LA TARIFA DE PUESTA EN MARCHA",
+            "title": "Nuestros sitios web están diseñados para obtener resultados."
+        }
+    },
+    "homeHero": {
+        "alt": "imagen-hero",
+        "text": "¿Interesado en ahorrar tiempo y ganar más dinero? Comienza respondiendo algunas preguntas.",
+        "title": "Te ayudamos a operar y crecer tu negocio."
+    },
+    "limitedOfferForm": {
+        "hero": {
+            "alt1": "anillo",
+            "alt2": "Curva",
+            "fee": "RENUNCIA A LA TARIFA DE PUESTA EN MARCHA",
+            "subtitle": "OBTÉN TU SITIO WEB LISTO PARA LANZAR GRATIS AHORA:",
+            "title": "Tu negocio comercial merece un sitio web audaz."
+        },
+        "services": {
+            "description1": "Al crear trades.org, descomponemos los elementos más importantes para administrar un negocio comercial exitoso y los adaptamos en una interfaz simple pero poderosa.",
+            "description2": "A continuación, encontrarás nuestras tres principales características que te ayudarán a obtener más reseñas, más trabajos y más ingresos:",
+            "service1": {
+                "alt": "vector",
+                "description": "Crearemos un sitio web profesional que genere confianza en tu trabajo. Fácil y rápido, tu nuevo sitio creará oportunidades de venta, convertirá ventas e incrementará tus ingresos.",
+                "subtitle1": "UN SITIO WEB DE ALTO RANGO",
+                "subtitle2": "PUEDE AUMENTAR LAS VENTAS EN UN 50%"
+            },
+            "service2": {
+                "alt": "ajustes",
+                "description": "Construye una presencia profesional en las redes sociales donde se encuentran tus clientes. Atrae a futuros clientes con nuevas ideas, hermosas fotos y reseñas positivas.",
+                "subtitle1": "GESTIÓN DE MARCA ADECUADA",
+                "subtitle2": "PUEDE AUMENTAR LAS VENTAS EN UN 33%"
+            },
+            "service3": {
+                "alt": "Verificado",
+                "description": "Gestionamos tu reputación solicitando reseñas en línea, resaltando experiencias positivas de los clientes y ayudándote a resolver problemas rápidamente cuando las cosas salen mal.",
+                "subtitle1": "RESEÑAS DE CALIDAD",
+                "subtitle2": "PUEDE AUMENTAR LAS VENTAS EN UN 18%"
+            },
+            "subtitle": "trades.org = Más Reseñas + Más Trabajos + Más Ingresos",
+            "title": "¿Cuál es nuestra fórmula secreta?"
+        }
+    },
+    "login": {
+        "alt": "imagen-hero",
+        "continueWith": "O continúa con",
+        "forgetPassword": {
+            "resetButton": "Restablecer mi contraseña"
+        },
+        "form": {
+            "errorMessage": "Ya existe un usuario con este número de teléfono y dirección de correo electrónico. Si deseas iniciar sesión en tu cuenta, utiliza una de las opciones 'Iniciar sesión en la cuenta'.",
+            "signUpBtn": "Regístrate ahora"
+        },
+        "login": "Inicia sesión en tu panel de control utilizando las opciones a continuación",
+        "signUp": "Crea una cuenta a continuación",
+        "signUpAndClaimWebsite": "Cree una cuenta para reclamar su sitio web",
+        "signupActivate": "Para activar tu cuenta, regístrate con una de las siguientes opciones.",
+        "signupClaim": "Regístrese para solicitar su sitio web.",
+        "signupPaid": "Gracias por su compra!",
+        "tabs": {
+            "login": "Iniciar sesión en la cuenta",
+            "signUp": "Crear una cuenta"
+        },
+        "title": "Bienvenido a"
+    },
+    "loginButtons": {
+        "auth": "Conectado exitosamente como",
+        "loading": "Cargando...",
+        "login": "Iniciar sesión con",
+        "phone": "Conectar con Teléfono",
+        "signup": "Continuar con"
+    },
+    "navbar": {
+        "chooseLanguage": "Elige tu idioma",
+        "join": "Unirse gratis",
+        "locales": {
+            "en": "Inglés",
+            "es": "Español"
+        },
+        "signIn": "Iniciar sesión",
+        "signOut": "Cerrar sesión",
+        "text": "Apoyamos a los profesionales del comercio y a sus clientes."
+    },
+    "navigations": {
+        "contactUs": "Contáctanos",
+        "forYouAndYourFamily": "Para Ti y Tu Familia",
+        "home": "Inicio",
+        "marketingServices": "Servicios de Marketing",
+        "operationsSupport": "Soporte Operativo",
+        "pricing": "Precios"
+    },
+    "pages": {
+        "404": {
+            "homeButton": "Inicio",
+            "oops": "¡Ups!",
+            "title": "No podemos encontrar esa página. Intenta visitar la página de inicio."
+        },
+        "careers": {
+            "seo": "Posiciones Abiertas"
+        },
+        "contact": {
+            "contact": "trades.org contacto",
+            "contactUs": "Contáctanos",
+            "seo": "Contacto | Trade Pros"
+        },
+        "home": {
+            "seo": "Trade Pros",
+            "subtitle": "Los precios comienzan en solo $49/mes",
+            "title": "Concéntrate en deleitar a tus clientes. Nosotros nos encargamos de todo lo demás."
+        },
+        "marketingServices": {
+            "seo": "Marketing | Trade Pros"
+        },
+        "operations": {
+            "seo": "Operaciones | Trade Pros"
+        },
+        "personal": {
+            "seo": "Tú y Tu Familia | Trade Pros"
+        },
+        "pricing": {
+            "seo": "¡Ayudamos a los trabajadores del comercio a tener éxito!"
+        },
+        "privacy": {
+            "seo": "Privacidad | Trade Pros",
+            "subtitle": "trades.org privacidad",
+            "title": "Política de Privacidad"
+        },
+        "templateSelectionLanding": {
+            "header1": "Es hora de que",
+            "header2": "le des a tu negocio",
+            "header3": "el sitio web que se merece."
+        },
+        "terms": {
+            "seo": "Términos | Trade Pros",
+            "subtitle": "trades.org términos",
+            "title": "Términos de Servicio"
+        }
+    },
+    "pagesData": {
+        "marketing": {
+            "getStarted": {
+                "subtitle": "Los precios comienzan desde $49/mes",
+                "title": "Preocúpate menos y gana más con trades.org en tu equipo."
+            },
+            "hero": {
+                "subtitle": "trades.org marketing",
+                "title1": "Construye una marca confiable,",
+                "title2": "gana más trabajos y",
+                "title3": "haz crecer tu negocio."
+            },
+            "services": {
+                "feature1": {
+                    "description1": "Tu marca muestra lo que representas. Obtén ayuda para elegir un nombre comercial o diseñar el logotipo perfecto.",
+                    "description2": "Con ropa con marca, tú y tu equipo transmitirán profesionalismo, confianza y una imagen cuidada.",
+                    "description3": "Tenemos cientos de artículos de marketing en nuestro catálogo que puedes utilizar para hacer crecer tu negocio.",
+                    "description4": "Un número de negocios es necesario para el crecimiento: filtra fácilmente las llamadas no deseadas o haz que alguien más conteste el teléfono por ti.",
+                    "title1": "Diseño de logotipos y servicios de branding",
+                    "title2": "Camisetas, gorras, bolsas y otras prendas de vestir con marca",
+                    "title3": "Tarjetas de presentación, calcomanías para automóviles, letreros en el jardín y más",
+                    "title4": "Números de teléfono de trabajo dedicados"
+                },
+                "feature2": {
+                    "description1": "Configuraremos y administraremos tu sitio web diseñado profesionalmente para que los clientes puedan encontrarte, confiar en ti y contratarte fácilmente.",
+                    "description2": "Configuraremos y administraremos tus listados en Yelp, Facebook, Houzz y más para atraer nuevos clientes.",
+                    "description3": "Solicitaremos reseñas de clientes satisfechos en tus perfiles y nos encargaremos rápidamente de las quejas cuando surjan.",
+                    "description4": "Aumenta tus tasas de éxito y de recomendación enviando tarjetas escritas a mano a tus clientes y clientes potenciales.",
+                    "title1": "Sitio web optimizado para la venta",
+                    "title2": "Perfil comercial en redes sociales y directorios",
+                    "title3": "Reseñas de trabajos y gestión de reputación",
+                    "title4": "Tarjetas de agradecimiento escritas a mano"
+                },
+                "feature3": {
+                    "description1": "Pagar por cada cliente potencial es una pérdida de dinero. Te enviaremos oportunidades gratuitas y solo tomaremos una comisión si ganas.",
+                    "description2": "Nos encargaremos de tus comunicaciones de ventas de manera rápida y profesional, deleitando a los clientes potenciales y ahorrándote tiempo.",
+                    "description3": "¿Obtienes clientes potenciales de Home Depot, HomeAdvisor, etc.? Nuestro equipo los calificará y los convertirá en citas en persona.",
+                    "description4": "Proporcionamos información sobre la competencia, incluidas otras ofertas que han recibido tus clientes potenciales, para que puedas aprender y mejorar.",
+                    "title1": "Oportunidades de trabajo 'paga solo si ganas'",
+                    "title2": "Servicios de manejo de llamadas, mensajes de texto y correos electrónicos",
+                    "title3": "Equipo de ventas para atender a clientes potenciales salientes",
+                    "title4": "Aprende de la competencia"
+                },
+                "subtitle1": "Una marca limpia, profesional y consistente hará que sea fácil identificarte y recordarte.",
+                "subtitle2": "Los clientes te investigan en línea. Nos aseguraremos de que causes una buena impresión.",
+                "subtitle3": "Enfócate en brindar un servicio excelente y déjanos encargarnos de todo lo demás.",
+                "title1": "Construye tu marca",
+                "title2": "Gana más trabajos",
+                "title3": "Haz crecer tu negocio"
+            }
+        },
+        "operations": {
+            "getStarted": {
+                "subtitle": "Conviértete en miembro de forma gratuita.",
+                "title": "Harás más cosas con trades.org en tu equipo."
+            },
+            "hero": {
+                "subtitle": "trades.org operaciones",
+                "title1": "Libera tu tiempo,",
+                "title2": "gana más dinero y",
+                "title3": "deleita a tus clientes."
+            },
+            "services": {
+                "feature1": {
+                    "description1": "¿Tienes alguna pregunta o necesitas ayuda con algo en específico? Nuestra red de expertos y mentores está dispuesta a ayudarte.",
+                    "description2": "Obtén fácilmente un seguro comercial y de proyectos asequible por proyecto, mensual, trimestral o anual.",
+                    "description3": "Nuestros contratos estándar protegen tu negocio y a tus clientes, y garantizan que todos estén en la misma página.",
+                    "description4": "Encontrar un buen equipo cuando estás apurado es difícil. Accede a nuestra red nacional para encontrar y contratar a las mejores personas.",
+                    "title1": "Soporte de conserjería y nuestra red de mentoría",
+                    "title2": "Seguro de negocios por período o proyecto",
+                    "title3": "Contratos estándar para proyectos y subcontratistas",
+                    "title4": "Acceso a una red de subcontratistas cualificados"
+                },
+                "feature2": {
+                    "description1": "Tus clientes pueden solicitar financiamiento de forma rápida y sencilla directamente en trades.org o desde tu sitio web.",
+                    "description2": "Cobra más rápido y con menos problemas. Acepta tarjetas de crédito y pagos electrónicos desde tu sitio web y en movimiento.",
+                    "description3": "Accede a precios más bajos y gana comisiones al comprar materiales de nuestra red de socios.",
+                    "description4": "Nos encargaremos de tus consultas de ventas de manera rápida y profesional, calificando clientes potenciales y programando visitas en persona.",
+                    "title1": "Financiamiento de proyectos para tus clientes",
+                    "title2": "Facturación, cobro, gestión de cobranzas y embargos",
+                    "title3": "Precios reducidos de materiales",
+                    "title4": "Servicios de programación de citas"
+                },
+                "subtitle1": "Nos encargaremos de las tareas más frustrantes y que consumen más tiempo para que puedas concentrarte en satisfacer a tus clientes.",
+                "subtitle2": "Aumenta el tamaño de tus proyectos, obtén un margen más alto y cobra más rápido con nuestras herramientas y servicios.",
+                "title1": "Libera tu tiempo",
+                "title2": "Gana más dinero"
+            }
+        },
+        "personal": {
+            "getStarted": {
+                "subtitle": "Es gratis comenzar. Únete hoy.",
+                "title": "Prepárate para el éxito. Hazlo por tu familia y tu futuro."
+            },
+            "hero": {
+                "subtitle": "trades.org para ti y tu familia",
+                "title1": "Te ayudamos a cuidar",
+                "title2": "de ti mismo y de las",
+                "title3": "personas que amas."
+            },
+            "services": {
+                "feature1": {
+                    "description1": "Podemos ayudarte a abrir cuentas financieras, construir crédito, hacer tus impuestos y más.",
+                    "description2": "¿Quieres financiar una compra? Ofrecemos opciones de financiamiento de alquiler con opción a compra y préstamos personales.",
+                    "description3": "No deberías tener que trabajar para siempre. Podemos ayudarte a apartar dinero y planificar tu futuro.",
+                    "title1": "Construcción de crédito y ayuda con las finanzas",
+                    "title2": "Financiamiento de herramientas y equipos personales",
+                    "title3": "Programas de jubilación con ventajas fiscales"
+                },
+                "feature2": {
+                    "description1": "Obtén seguro médico para ti y tu familia para mantener a tus seres queridos saludables y seguros.",
+                    "description2": "Recibe apoyo, tutoría y recursos educativos para que tú y tu familia vivan una vida mejor.",
+                    "description3": "Tú y tu familia pueden aprovechar muchos beneficios gratuitos y con descuento que hemos negociado para ti.",
+                    "title1": "Seguro de salud, dental y de visión",
+                    "title2": "Conserje educativo y recursos",
+                    "title3": "Beneficios gratuitos y con descuento de socios"
+                },
+                "subtitle1": "Podemos ayudarte a administrar mejor el dinero hoy y ahorrar para tu futuro.",
+                "subtitle2": "Obtén seguro médico para ti y tu familia, acceso a recursos de aprendizaje y otros beneficios.",
+                "title1": "Apoyo financiero",
+                "title2": "Cuidado de la salud y más"
+            }
+        }
+    },
+    "pricing": {
+        "desktopPricing": {
+            "brandMsg": "Tu suscripción de gestión de marca, que está incluida en los planes Pro y Basic, incluye todos los siguientes servicios.",
+            "caption": "Comparación de planes de precios",
+            "pricing": "Precios",
+            "reputationMsg": "Obtén un perfil social atractivo y bien diseñado en sitios específicos de la industria como Houzz y Home Advisor, que impresionarán a los posibles clientes con tu experiencia.",
+            "websiteMsg": "Una suscripción de gestión de sitios web incluye todas las siguientes características en un sitio web fácil de usar y diseñado profesionalmente."
+        },
+        "faqs": {
+            "title": "Preguntas frecuentes sobre nuestros planes Pro"
+        },
+        "help": {
+            "alt": "Imagen de precios",
+            "button": "Hablar con un miembro del equipo",
+            "description": "Llama o chatea con nuestro equipo en cualquier momento. Podemos responder tus preguntas o guiarte a través de nuestros servicios. Sin jerga de ventas. Solo la mejor y más precisa información, entregada rápidamente. Estamos aquí para ayudarte, para que puedas concentrarte en hacer el trabajo duro de tu profesión.",
+            "header": "SOPORTE DE PRIMERA CLASE",
+            "title": "Estamos aquí para ayudarte"
+        },
+        "proPlan": {
+            "header": "Plan Pro",
+            "perMonth": "Por mes",
+            "planComparison": "Ver la comparación de planes",
+            "setupFee": "Tarifa de configuración",
+            "srPlus": "más",
+            "srPrice": "Precio",
+            "title1": "Lo que necesitas para generar confianza y",
+            "title2": "crecer",
+            "title3": "tu negocio",
+            "today": "hoy"
+        },
+        "tableFooter": {
+            "sr": "Elige tu plan"
+        },
+        "tableHeader": {
+            "header": "Planes",
+            "sr": "Característica por"
+        }
+    },
+    "pricingData": {
+        "detailedPlans": {
+            "basic": {
+                "buttonText": "OBTENGA BASIC",
+                "description": "Obtenga los servicios esenciales de gestión de sitios web y gestión de marca"
+            },
+            "features": {
+                "description1": "Te ayudaremos a asegurar la URL personalizada que haga que tu empresa sea fácil de encontrar en línea. Una dirección web de empresa .com o .net se ve profesional y es fácil de recordar.",
+                "description10": "Tus clientes anteriores son tus mejores publicistas. Permíteles contar su historia sobre el trabajo y la ética de tu negocio.",
+                "description11": "Captura el número de teléfono o dirección de correo electrónico de los visitantes de tu sitio web. Lo agregaremos a tus contactos para que nunca pierdas otra oportunidad.",
+                "description12": "Permite a los clientes programar citas directamente desde tu sitio. Automatiza el proceso de calificación y cierra más ventas haciendo todas las preguntas correctas.",
+                "description13": "Utiliza nuestra plataforma simplificada para enviar facturas por correo electrónico a los clientes. Les recordaremos cuando estén atrasados y sincronizaremos la información de pago pendiente con tu sistema contable.",
+                "description14": "Acepta pagos a través de cualquier método que utilicen tus clientes. Nuestro sistema de pago en línea puede enviar dinero mediante cheques, transferencias bancarias, tarjetas de crédito o billeteras digitales.",
+                "description15": "Utiliza nuestra herramienta de financiación en el sitio web para obtener préstamos para tus futuros clientes. Permíteles explorar todas las posibilidades para su próximo proyecto directamente en tu página.",
+                "description16": "Proporciona a tus clientes una estimación del costo de su proyecto para que puedan planificar adecuadamente. Muestra cómo puedes agregar características especiales y ampliar sus planes en una herramienta única que se ajusta fácilmente.",
+                "description2": "Un número de teléfono dedicado para tu empresa que podemos redirigir a tu teléfono personal o asignar a un empleado. Facilitamos la identificación y priorización de la comunicación empresarial.",
+                "description3": "Una dirección de correo electrónico comercial se ve profesional y facilita la diferenciación de tus mensajes personales y comerciales. Incluso puedes asignar esta tarea a un empleado.",
+                "description4": "Destácate en línea con cualquiera de nuestras plantillas de sitio web fáciles de usar. No importa el tamaño de tu empresa, una plantilla de trades.org proporcionará una experiencia de usuario perfecta.",
+                "description5": "Cuando los clientes potenciales busquen un proveedor de servicios, tu nombre estará entre sus principales resultados cuando optimicemos tu sitio web.",
+                "description6": "Analítica exhaustiva a través de Google que te ayuda a tomar decisiones informadas sobre tu sitio web y publicidad. Observa claramente qué funciona mejor para tu negocio.",
+                "description7": "Una página Acerca de mí de trades.org permite a un cliente conocerte a ti, a tu equipo y a tu trabajo de alta calidad. Facilitamos que los visitantes se pongan en contacto y se conviertan en clientes.",
+                "description8": "Impresiona a tu próximo cliente con una galería de fotos de tus proyectos. Deja que fotos de alta calidad cuenten la historia de tu arduo trabajo, dedicación y experiencia.",
+                "description9": "Agrega una base de datos de preguntas frecuentes a tu sitio web para responder las preocupaciones más apremiantes de tus clientes. Esta lista en constante evolución te convertirá en la referencia para contenido educativo.",
+                "name1": "URL de la empresa",
+                "name10": "Reseñas de clientes",
+                "name11": "Formularios de contacto",
+                "name12": "Programación",
+                "name13": "Facturación",
+                "name14": "Procesamiento de pagos",
+                "name15": "Financiación para clientes",
+                "name16": "Herramienta de estimación de precios de proyectos",
+                "name2": "Número de teléfono de la empresa",
+                "name3": "Múltiples plantillas",
+                "name4": "Herramientas de edición fáciles",
+                "name5": "Optimización para motores de búsqueda",
+                "name6": "Analítica web",
+                "name7": "Páginas Acerca de mí y Contacto",
+                "name8": "Galerías de fotos de proyectos",
+                "name9": "FAQs buscables"
+            },
+            "lite": {
+                "buttonText": "INICIE CON LITE",
+                "description": "¡Empiece de a poco con espacio para crecer! Nuestro Plan Lite es solo administración de sitios web."
+            },
+            "pro": {
+                "buttonText": "HAZTE PRO",
+                "description": "¡Nuestro mejor valor! Incluye servicios de gestión de sitios web, gestión de marca y gestión de reputación"
+            },
+            "reporting": {
+                "description1": "Construiremos y mantendremos tu perfil social en Google My Business, Yelp y Facebook. Con imágenes atractivas y contenido informativo, los visitantes se convertirán en compradores.",
+                "description2": "Obtén un perfil social atractivo y bien diseñado en sitios específicos de la industria como Houzz y Home Advisor, que impresionará a los clientes potenciales con tu experiencia.",
+                "description3": "Creamos y gestionamos tus perfiles en cualquier plataforma general como Foursquare y Maps. Esta información básica ayudará a que más clientes potenciales calificados encuentren tu negocio.",
+                "description4": "Tu perfil social personalizado se optimizará para obtener resultados de búsqueda máximos. Mantenemos a los clientes comprometidos con información comercial precisa y contenido educativo.",
+                "description5": "Implementamos las mejores prácticas y nos mantenemos al día con los cambios de cada plataforma para que aparezcas en los primeros resultados.",
+                "description6": "Actualiza tu información y contenido en un solo sistema y nos aseguraremos de que aparezca en todas tus plataformas. Ahorra tiempo y asegúrate de que todos tus perfiles estén actualizados.",
+                "description7": "Gestionamos y dirigimos la comunicación entrante en todas las plataformas para que puedas responder de manera rápida y eficiente y ofrecer la mejor experiencia al cliente.",
+                "description8": "No más llamadas de ventas no deseadas o automatizadas. Utilizamos tecnología de bots para bloquear esas llamadas y filtrar solo las más relevantes para tu negocio.",
+                "name1": "Escribir y administrar perfiles sociales VIP",
+                "name2": "Escribir y administrar perfiles en directorios comerciales",
+                "name3": "Escribir y administrar perfiles generales buscables",
+                "name4": "Optimización de búsqueda social",
+                "name5": "Optimización de algoritmos y ventas",
+                "name6": "Publicación centralizada",
+                "name7": "Centro de comunicación entrante",
+                "name8": "Bloqueo de llamadas de ventas a través de bots"
+            },
+            "support": {
+                "description1": "Nos comunicaremos con un posible cliente después de su contacto inicial. La valiosa información que recopilamos lo ayudará a comprender sus necesidades y asegurar la venta.",
+                "description2": "Nos comunicamos con los clientes después del primer día de trabajo para responder preguntas, obtener comentarios y abordar inquietudes. Te ayudamos a cultivar clientes felices desde el primer día.",
+                "description3": "Nos comunicamos con sus clientes justo antes de que finalice su proyecto para asegurarnos de que estén satisfechos con el trabajo y que no tengan expectativas insatisfechas que usted desconozca.",
+                "description4": "Nos comunicamos con sus clientes durante todo el proyecto. Comprender sus expectativas y experiencias lo ayuda a realizar ajustes que conducen a clientes satisfechos.",
+                "description5": "Conecte a la perfección el programa de gestión de reputación de trades.org con su CRM existente o acceda a él a través de nuestra aplicación o por mensaje de texto.",
+                "description6": "Nos ponemos en contacto con los clientes al final del proyecto para solicitar revisiones y referencias. Esta retroalimentación positiva mejorará su reputación e impulsará nuevos negocios.",
+                "description7": "Te ayudamos a lidiar con clientes insatisfechos encontrando una solución al problema. Le ayudamos a hacer las revisiones en línea editadas correctas y seguras.",
+                "name1": "Seguimiento del primer contacto",
+                "name2": "Registro de inicio de trabajo",
+                "name3": "Revisión final",
+                "name4": "Comentarios procesables en tiempo real",
+                "name5": "Fácil integración y accesibilidad",
+                "name6": "Construcción de reputación",
+                "name7": "Protección de la reputación"
+            }
+        },
+        "faqs": {
+            "answer1": "¡Sí! Puedes cancelar o ajustar tu plan en cualquier momento. Los cambios se aplicarán al final del período de facturación cuando se realice el cambio.",
+            "answer2": "Absolutamente. Estamos tan seguros de que aumentaremos tus ventas, marca y reputación, que te reembolsaremos los últimos tres meses de servicio si no ves resultados.",
+            "answer3": "Después de elegir tu plan, pasarás por un proceso de incorporación rápido y sencillo con uno de nuestro personal. Tu sitio web estará en funcionamiento solo unas horas después. No necesitas habilidades de diseño o informáticas; ¡nos ocuparemos de todo eso por ti!",
+            "answer4": "Te facilitamos la adición de fotos y la realización de actualizaciones tú mismo, pero si necesitas ayuda, nuestro personal está listo y capacitado para realizar esos cambios por ti. Mientras seas miembro de trades.org, tu sitio web estará completamente funcional y utilizará todas nuestras herramientas de sitio web de la mejor manera para tu negocio.",
+            "answer5": "Tu presencia virtual es la primera y más poderosa impresión que un cliente potencial tiene de tu negocio. Facilita a los propietarios de viviendas encontrarte y contratarte con un sitio web y perfiles sociales claros, atractivos y que ofrezcan una forma fácil de dar el siguiente paso.",
+            "answer6": "Ya sea solo tú y tu camioneta o que tengas un equipo de cientos de personas, cómo te ven tus clientes es tu marca. No importa el tamaño, te ayudaremos a construir reconocimiento de marca y una reputación excepcional en línea y en el mundo real.",
+            "question1": "¿Puedo cambiar o cancelar mi plan?",
+            "question2": "¿Ofrecen una garantía?",
+            "question3": "¿Cuánto tiempo llevará comenzar?",
+            "question4": "¿Puedo hacer cambios en mi sitio web o perfiles?",
+            "question5": "¿Cómo me ayuda un sitio web a llegar a más clientes?",
+            "question6": "No tengo una marca. Soy solo yo. ¿Realmente necesito estos servicios?"
+        },
+        "features": {
+            "brandDescription": "Construye una presencia profesional donde se encuentran tus clientes, en las redes sociales. Atrae a futuros clientes con ideas nuevas, hermosas fotos y reseñas elogiosas.",
+            "reputationDescription": "Gestionamos tu reputación solicitando reseñas en línea, resaltando experiencias positivas de los clientes y ayudándote a resolver problemas rápidamente cuando las cosas salen mal.",
+            "websiteDescription": "Crearemos un sitio web profesional que genere confianza en tu trabajo. Fácil y rápido, tu nuevo sitio creará clientes potenciales, convertirá ventas y aumentará tus ingresos."
+        },
+        "price": {
+            "subFeatures": {
+                "1": "Rápido y fácil",
+                "2": "Retorno de inversión garantizado",
+                "3": "No se requiere conocimientos de programación",
+                "4": "Encuentra nuevos clientes",
+                "5": "Construye una reputación profesional",
+                "6": "Ten clientes satisfechos"
+            },
+            "subFeaturesMobile": {
+                "1": "Gestión de sitios web",
+                "2": "Gestión de marca",
+                "3": "Gestión de reputación",
+                "4": "Retorno de inversión garantizado",
+                "5": "Rápido y fácil",
+                "6": "Haz crecer tu negocio"
+            }
+        }
+    },
+    "pricingPlans": {
+        "annual": {
+            "management": "Gestión: Anual",
+            "phoneNumber": "$0 Número de Teléfono Comercial: Incluido con el Sitio web",
+            "reputationManagment": "$490 Reputación",
+            "setUp": "$79 Tarifa de Configuración: Para Suscripciones Anuales y Semestrales",
+            "socialProfile": "$490 Perfil Social",
+            "website": "$490 Sitio web: Anual"
+        },
+        "discounts": {
+            "20perCent": "Descuento de paquete del 20%",
+            "25perCent": "Descuento de paquete del 25%",
+            "77Dollars": "Descuento de paquete de $77"
+        },
+        "packageName": {
+            "brandPackage": "Paquete de Marca",
+            "findMe": "Paquete \"Encuéntrame\"",
+            "proPackage": "Paquete Pro",
+            "trustMe": "Paquete \"Confía en Mí\"",
+            "website": "Sitio web"
+        },
+        "priceBreakdown": {
+            "LawSignDesign": "$39 Diseño de Letrero Legal",
+            "businessCardDesign": "$39 Diseño de Tarjeta de Presentación",
+            "carDecalDesign": "$59 Diseño de Calcomanía para Automóvil",
+            "logoDesign": "$149 Diseño de Logotipo",
+            "management": "Gestión: Mensual",
+            "monthly": "$49 Sitio web: Mensual",
+            "monthlySubs": "$99 Para Suscripciones Mensuales",
+            "phoneNumber": "$0 Número de Teléfono Comercial:",
+            "reputationManagment": "$49 Gestión de Reputación: Mensual",
+            "socialProfile": "$49 Perfil Social",
+            "withWebsite": "Incluido con el Sitio web"
+        },
+        "semiannual": {
+            "management": "Gestión: Semestral",
+            "phoneNumber": "$0 Número de Teléfono Comercial: Incluido con el Sitio web",
+            "reputationManagment": "$269 Reputación",
+            "setUp": "$79 Tarifa de Configuración: Para Suscripciones Anuales y Semestrales",
+            "socialProfile": "$269 Perfil Social",
+            "website": "$269 Sitio web: Semestral"
+        }
+    },
+    "privacyData": {
+        "advertising": "Políticas de privacidad de socios publicitarios",
+        "advertisingText": "Puedes consultar esta lista para encontrar la Política de Privacidad de cada uno de los socios publicitarios de trades.org. Los servidores de anuncios de terceros o las redes publicitarias utilizan tecnologías como cookies, JavaScript o balizas web que se utilizan en sus respectivos anuncios y enlaces que aparecen en trades.org, y que se envían directamente al navegador de los usuarios. Estas tecnologías se utilizan para medir la efectividad de sus campañas publicitarias y/o personalizar el contenido publicitario que ves en los sitios web que visitas. Ten en cuenta que trades.org no tiene acceso ni control sobre estas cookies que utilizan los anunciantes de terceros.",
+        "ccpa": "Derechos de privacidad de CCPA (No vender mi información personal)",
+        "ccpaText": "Según la CCPA, entre otros derechos, los consumidores de California tienen derecho a: Solicitar a una empresa que recopile los datos personales de un consumidor que revele las categorías y las piezas específicas de datos personales que la empresa ha recopilado sobre los consumidores. Solicitar que una empresa elimine cualquier dato personal sobre el consumidor que una empresa haya recopilado. Solicitar que una empresa que venda los datos personales de un consumidor no venda los datos personales del consumidor. Si realizas una solicitud, tenemos un mes para responderte. Si deseas ejercer alguno de estos derechos, contáctanos.",
+        "childrensInfo": "Información para niños",
+        "childrensInfoText": "Otra parte de nuestra prioridad es agregar protección para los niños mientras utilizan Internet. Alentamos a los padres y tutores a observar, participar y/o supervisar y guiar su actividad en línea. trades.org no recopila a sabiendas ninguna información de identificación personal de niños menores de 13 años. Si crees que tu hijo ha proporcionado este tipo de información en nuestro sitio web, te recomendamos que te pongas en contacto con nosotros de inmediato y haremos todo lo posible por eliminar rápidamente dicha información de nuestros registros.",
+        "consent": "Consentimiento",
+        "consentText": "Al utilizar nuestro sitio web, aceptas nuestra Política de Privacidad y aceptas sus términos.",
+        "cookies": "Cookies y balizas web",
+        "cookiesText": "Al igual que cualquier otro sitio web, trades.org utiliza 'cookies'. Estas cookies se utilizan para almacenar información, incluidas las preferencias de los visitantes y las páginas del sitio web a las que el visitante accedió o visitó. La información se utiliza para optimizar la experiencia de los usuarios personalizando el contenido de nuestras páginas web según el tipo de navegador de los visitantes y/o otra información. Para obtener información más general sobre las cookies, lee 'What Are Cookies' de Cookie Consent.",
+        "gdpr": "Derechos de protección de datos de GDPR",
+        "gdprText": "Nos gustaría asegurarnos de que estás completamente consciente de todos tus derechos de protección de datos. Cada usuario tiene derecho a lo siguiente: Derecho de acceso: tienes derecho a solicitar copias de tus datos personales. Podemos cobrarte una pequeña tarifa por este servicio. Derecho de rectificación: tienes derecho a solicitar que corrijamos cualquier información que creas que es inexacta. También tienes derecho a solicitar que completemos la información que creas que está incompleta. Derecho de supresión: tienes derecho a solicitar que borremos tus datos personales, en determinadas condiciones. Derecho de restricción del procesamiento: tienes derecho a solicitar que restrinjamos el procesamiento de tus datos personales, en determinadas condiciones. Derecho de oposición al procesamiento: tienes derecho a oponerte al procesamiento de tus datos personales, en determinadas condiciones. Derecho a la portabilidad de datos: tienes derecho a solicitar que transfiramos los datos que hemos recopilado a otra organización o directamente a ti, en determinadas condiciones. Si realizas una solicitud, tenemos un mes para responderte. Si deseas ejercer alguno de estos derechos, contáctanos.",
+        "infoWeCollect": "Información que recopilamos",
+        "infoWeCollectText": "La información personal que se te solicita proporcionar, y las razones por las que se te solicita proporcionarla, se te explicarán claramente en el momento en que te pidamos que proporciones tu información personal. Si nos contactas directamente, es posible que recibamos información adicional sobre ti, como tu nombre, dirección de correo electrónico, número de teléfono, el contenido del mensaje y/o los archivos adjuntos que nos envíes, y cualquier otra información que elijas proporcionar. Cuando te registres para obtener una cuenta, es posible que te solicitemos tu información de contacto, que puede incluir elementos como nombre, nombre de la empresa, dirección, dirección de correo electrónico y número de teléfono.",
+        "informationHandle": "Cómo utilizamos tu información",
+        "informationHandleBullets1": "Proporcionar, operar y mantener nuestro sitio web",
+        "informationHandleBullets2": "Mejorar, personalizar y ampliar nuestro sitio web",
+        "informationHandleBullets3": "Comprender y analizar cómo utilizas nuestro sitio web",
+        "informationHandleBullets4": "Desarrollar nuevos productos, servicios, funciones y funcionalidades",
+        "informationHandleBullets5": "Comunicarnos contigo, ya sea directamente o a través de alguno de nuestros socios, incluso para brindarte servicio al cliente, enviarte actualizaciones y otra información relacionada con el sitio web y para fines de marketing y promocionales",
+        "informationHandleBullets6": "Enviarte correos electrónicos",
+        "informationHandleBullets7": "Detectar y prevenir fraudes",
+        "informationHandleText": "Utilizamos la información que recopilamos de diversas formas, incluidas las siguientes:",
+        "logFiles": "Archivos de registro",
+        "logFilesText": "trades.org sigue un procedimiento estándar de uso de archivos de registro. Estos archivos registran a los visitantes cuando visitan sitios web. Todos los servicios de alojamiento web hacen esto y forma parte de la analítica de los servicios de alojamiento. La información recopilada por los archivos de registro incluye direcciones de protocolo de Internet (IP), tipo de navegador, proveedor de servicios de Internet (ISP), fecha y hora, páginas de referencia/salida y posiblemente la cantidad de clics. Esta información no está vinculada a ninguna información que sea personalmente identificable. El propósito de la información es analizar tendencias, administrar el sitio, rastrear el movimiento de los usuarios en el sitio web y recopilar información demográfica.",
+        "text": "En trades.org, una de nuestras principales prioridades es la privacidad de nuestros visitantes. Este documento de Política de Privacidad contiene los tipos de información que se recopilan y registran en trades.org y cómo la utilizamos. Si tienes preguntas adicionales o necesitas más información sobre nuestra Política de Privacidad, no dudes en contactarnos. Esta Política de Privacidad se aplica solo a nuestras actividades en línea y es válida para los visitantes de nuestro sitio web en relación con la información que comparten y/o recopilan en trades.org. Esta política no se aplica a ninguna información recopilada sin conexión o a través de canales distintos a este sitio web.",
+        "thirdParty": "Políticas de privacidad de terceros",
+        "thirdPartyText": "La Política de Privacidad de trades.org no se aplica a otros anunciantes ni a sitios web. Por lo tanto, te recomendamos que consultes las respectivas Políticas de Privacidad de estos servidores de anuncios de terceros para obtener información más detallada. Puede incluir sus prácticas e instrucciones sobre cómo darte de baja de ciertas opciones. Puedes elegir desactivar las cookies a través de las opciones individuales de tu navegador. Para obtener información más detallada sobre la gestión de cookies con navegadores web específicos, puedes encontrarla en los sitios web correspondientes de los navegadores."
+    },
+    "services": {
+        "alt": "ícono_de_servicio",
+        "learnMore": "Más información"
+    },
+    "startFree": {
+        "buttonTitle": "Comenzar ahora",
+        "opportunities": {
+            "body": "Nuestra plataforma ha sido diseñada para posicionarse mejor en los resultados de búsqueda, brindándote una mayor visibilidad orgánica.",
+            "data": {
+                "competitors": "TUS COMPETIDORES",
+                "speciality": "TU ESPECIALIDAD COMERCIAL"
+            },
+            "head": "Ganas más trabajos cuando es fácil encontrarte en línea."
+        },
+        "span": "*Los sitios web se facturan a $49/mes hasta que canceles.",
+        "templateSectionUtils": {
+            "body": "Nuestra plataforma ha sido diseñada para posicionarse mejor en los resultados de búsqueda, brindándote una mayor visibilidad orgánica.",
+            "head": "Elige entre una variedad de plantillas atractivas diseñadas para profesionales.",
+            "template": "Plantilla"
+        },
+        "testimonials": {
+            "body": "Nos encantaría compartir tu historia de éxito. ¿A qué esperas?",
+            "head": "Historias de éxito de profesionales de todo el país...",
+            "nextArrow": "Siguiente flecha",
+            "prevArrow": "Flecha anterior",
+            "utils": {
+                "body1": "“Esto es exactamente lo que necesitaba nuestro negocio. No teníamos el conocimiento ni el tiempo para invertir en la gestión de un sitio web. ¡Nuestras ventas han aumentado un 28% en los últimos seis meses desde que empezamos a usar trades.org!”",
+                "body2": "“Excelente servicio al cliente y, lo más importante, esta plataforma fue muy fácil de usar. He estado tan ocupado brindando soporte al cliente y trabajando en el campo de la plomería que no he podido prestarle atención real a nuestro sitio web y a nuestros esfuerzos de marketing. Pero ahora que resolvimos las cosas con trades.org, todo está funcionando sin problemas”.",
+                "body3": "“Simplemente funciona. Te suscribes y los dejas hacer su trabajo. ¡Estoy muy satisfecho!”",
+                "body4": "“He sido plomero durante más de 25 años y no fue hasta mi 26º año que decidí tener un sitio web y recibir ayuda de marketing, ¡y déjame decirte que estoy encantado con los resultados!”",
+                "body5": "“Decidí comenzar mi propio negocio como electricista y trades.org me lo puso muy fácil. ¡Es una excelente herramienta!”",
+                "body6": "“Antes no tenía suficiente trabajo y estaba estresado por llevar el negocio. Hoy en día, tengo el doble de clientes que están satisfechos y vuelven para más trabajos”.",
+                "position1": "Subcontratista",
+                "position2": "Técnico de plomería",
+                "position3": "Contratista general",
+                "position4": "Plomero",
+                "position5": "Electricista",
+                "position6": "Desarrollador"
+            }
+        },
+        "titleBottom": "Ganar trabajos comienza con un sitio web profesional. ¡Vamos!",
+        "titleTop": "Construiremos y gestionaremos tu sitio web por solo $49*",
+        "tradeProNew": {
+            "reviews": "RESEÑAS ESTELARES"
+        }
+    },
+    "templateSelection": {
+        "step1": {
+            "action1": "¡PLANTILLA SELECCIONADA!",
+            "action2": "Haz clic para continuar",
+            "subtitle1": "Selecciona una de nuestras plantillas a continuación para",
+            "subtitle2": "configurar tu sitio web en solo minutos.",
+            "title1": "Elige un diseño",
+            "title2": "para personalizar"
+        },
+        "step2": {
+            "title1": "Configuremos tu",
+            "title2": "cuenta gratuita"
+        }
+    },
+    "templatesCommonComponents": {
+        "data": {
+            "bullet1": "Obtén un sitio web atractivo para tu industria comercial",
+            "bullet2": "Gana más trabajos al aumentar tu visibilidad en línea",
+            "bullet3": "Soporte 24/7 para ayudarte en cada paso del camino",
+            "bullet4": "$0 para empezar, si actúas hoy (se renuncia al cargo de instalación de <del>$99</del>)"
+        },
+        "footer": {
+            "getHelp": "Obtener Ayuda",
+            "resource": "Recurso"
+        },
+        "poweredList": {
+            "alt": "Logo del proveedor",
+            "poweredBy": "DESARROLLADO POR"
+        },
+        "tradesOrgLogo": {
+            "circleAlt": "Logo circular",
+            "letterAlt": "Letra del logotipo"
+        }
+    },
+    "termsData": {
+        "approvedOrganizations": "Las organizaciones aprobadas pueden tener hipervínculos a nuestro sitio web de la siguiente manera:",
+        "approvedOrganizationsBullets1": "Mediante el uso de nuestro nombre corporativo; o",
+        "approvedOrganizationsBullets2": "Mediante el uso del localizador uniforme de recursos al que se vincula; o",
+        "approvedOrganizationsBullets3": "Mediante el uso de cualquier otra descripción de nuestro sitio web vinculado que tenga sentido dentro del contexto y el formato del contenido en el sitio de la parte vinculada.",
+        "contentLiability": "Responsabilidad por el contenido",
+        "contentLiabilityText": "No seremos responsables de ningún contenido que aparezca en su sitio web. Usted acepta protegernos y defendernos contra todos los reclamos que surjan en su sitio web. Ningún enlace debe aparecer en ningún sitio web que pueda interpretarse como calumnioso, obsceno o criminal, o que infrinja, de otro modo viole o promueva la infracción u otra violación de los derechos de terceros.",
+        "cookies": "Cookies",
+        "cookiesText": "Empleamos el uso de cookies. Al acceder a Trades.org, acepta usar cookies de acuerdo con la Política de privacidad de Trades.org. La mayoría de los sitios web interactivos utilizan cookies para permitirnos recuperar los detalles del usuario para cada visita. Nuestro sitio web utiliza cookies para habilitar la funcionalidad de ciertas áreas para que sea más fácil para las personas que visitan nuestro sitio web. Algunos de nuestros socios afiliados/publicitarios también pueden usar cookies.",
+        "disclaimer": "Descargo de responsabilidad",
+        "disclaimerBullets1": "limitar o excluir nuestra o su responsabilidad por muerte o lesiones personales;",
+        "disclaimerBullets2": "limitar o excluir nuestra o su responsabilidad por fraude o tergiversación fraudulenta;",
+        "disclaimerBullets3": "limitar cualquiera de nuestras responsabilidades o las suyas de cualquier manera que no esté permitida por la ley aplicable; o",
+        "disclaimerBullets4": "excluir cualquiera de nuestras o sus responsabilidades que no puedan ser excluidas bajo la ley aplicable.",
+        "disclaimerText": "En la máxima medida permitida por la ley aplicable, excluimos todas las representaciones, garantías y condiciones relacionadas con nuestro sitio web y el uso de este sitio web. Nada en este descargo de responsabilidad:",
+        "hyperlinkingToOurContent": "Hipervínculos a nuestro contenido",
+        "hyperlinkingToOurContentBullets1": "Agencias gubernamentales;",
+        "hyperlinkingToOurContentBullets2": "Los motores de búsqueda;",
+        "hyperlinkingToOurContentBullets3": "Organizaciones de noticias;",
+        "hyperlinkingToOurContentBullets4": "Los distribuidores de directorios en línea pueden vincularse a nuestro sitio web de la misma manera que vinculan a los sitios web de otras empresas enumeradas; y",
+        "hyperlinkingToOurContentBullets5": "Empresas acreditadas en todo el sistema, excepto las organizaciones sin fines de lucro que solicitan, centros comerciales de caridad y grupos de recaudación de fondos de caridad que no pueden tener un hipervínculo a nuestro sitio web.",
+        "hyperlinkingToOurContentText": "Las siguientes organizaciones pueden vincular a nuestro sitio web sin aprobación previa por escrito:",
+        "iframe": "iFrames",
+        "iframeText": "Sin aprobación previa y permiso por escrito, no puede crear marcos alrededor de nuestras páginas web que alteren de ninguna manera la presentación visual o la apariencia de nuestro sitio web.",
+        "liabilityLimitationsOverview": "Las limitaciones y prohibiciones de responsabilidad establecidas en esta Sección y en otras partes de este descargo de responsabilidad: (a) están sujetas al párrafo anterior; y (b) rigen todas las responsabilidades que surjan en virtud de la exención de responsabilidad, incluidas las responsabilidades que surjan por contrato, agravio y por incumplimiento del deber legal. Siempre que el sitio web y la información y los servicios en el sitio web se proporcionen de forma gratuita, no seremos responsables de ninguna pérdida o daño de ningún tipo.",
+        "license": "Licencia",
+        "licenseBullets1": "Volver a publicar material de Trades.org",
+        "licenseBullets2": "Vender, alquilar o sublicenciar material de Trades.org",
+        "licenseBullets3": "Reproducir, duplicar o copiar material de Trades.org",
+        "licenseBullets4": "Redistribuir contenido de Trades.org",
+        "licenseForUserComments": "Por la presente, otorga a Trades.org una licencia no exclusiva para usar, reproducir, editar y autorizar a otros a usar, reproducir y editar cualquiera de sus Comentarios en cualquiera y todas las formas, formatos o medios.",
+        "licenseText": "A menos que se indique lo contrario, Trades.org y/o sus licenciantes poseen los derechos de propiedad intelectual de todo el material de Trades.org. Todos los derechos de propiedad intelectual están reservados. Puede acceder a esto desde Trades.org para su uso personal sujeto a las restricciones establecidas en estos términos y condiciones. No debes:",
+        "linkRequestApprovalCriteriaAndProcess": "Aprobaremos las solicitudes de enlace de estas organizaciones si decidimos que: (a) el enlace no nos haría ver desfavorablemente a nosotros mismos oa nuestros negocios acreditados; (b) la organización no tiene registros negativos con nosotros; (c) el beneficio para nosotros de la visibilidad del hipervínculo compensa la ausencia de Trades.org; y (d) el enlace está en el contexto de información general de recursos. Estas organizaciones pueden vincular a nuestra página de inicio siempre que el enlace: (a) no sea engañoso de ninguna manera; (b) no implica falsamente patrocinio, respaldo o aprobación de la parte vinculada y sus productos o servicios; y (c) encaja dentro del contexto del sitio de la parte vinculada. Si usted es una de las organizaciones enumeradas en el párrafo 2 anterior y está interesado en vincularse a nuestro sitio web, debe informarnos enviando un correo electrónico a Trades.org. Incluya su nombre, el nombre de su organización, la información de contacto, así como la URL de su sitio, una lista de las URL desde las que pretende vincular a nuestro sitio web y una lista de las URL de nuestro sitio a las que le gustaría enlace. Espere 2-3 semanas para una respuesta.",
+        "linkingPolicyAndCriteria": "Estas organizaciones pueden vincular a nuestra página de inicio, publicaciones u otra información del sitio web siempre que el enlace: (a) no sea engañoso de ninguna manera; (b) no implica falsamente patrocinio, respaldo o aprobación de la parte vinculada y sus productos y/o servicios; y (c) encaja dentro del contexto del sitio de la parte vinculada. Podemos considerar y aprobar otras solicitudes de enlace de los siguientes tipos de organizaciones:",
+        "linkingPolicyAndCriteriaBullets1": "fuentes de información comercial y/o de consumo comúnmente conocidas;",
+        "linkingPolicyAndCriteriaBullets2": "sitios de la comunidad dot.com;",
+        "linkingPolicyAndCriteriaBullets3": "asociaciones u otros grupos que representen organizaciones benéficas;",
+        "linkingPolicyAndCriteriaBullets4": "distribuidores de directorios en línea;",
+        "linkingPolicyAndCriteriaBullets5": "portales de internet;",
+        "linkingPolicyAndCriteriaBullets6": "firmas de contabilidad, leyes y consultoría; y",
+        "linkingPolicyAndCriteriaBullets7": "instituciones educativas y asociaciones comerciales.",
+        "logoUsageRestrictions": "No se permitirá el uso del logotipo de Trades.org u otra obra de arte para vincular en ausencia de un acuerdo de licencia de marca registrada.",
+        "removalOfLinksFromOurWebsite": "Eliminación de enlaces de nuestro sitio web",
+        "removalOfLinksFromOurWebsiteText": "Si encuentra algún enlace en nuestro sitio web que sea ofensivo por cualquier motivo, puede contactarnos e informarnos en cualquier momento. Consideraremos solicitudes para eliminar enlaces, pero no estamos obligados a hacerlo ni a responderle directamente. No aseguramos que la información en este sitio web sea correcta, no garantizamos su integridad o exactitud; ni prometemos garantizar que el sitio web permanezca disponible o que el material del sitio web se mantenga actualizado.",
+        "reservationOfRights": "Reserva de Derechos",
+        "reservationOfRightsText": "Nos reservamos el derecho de solicitarle que elimine todos los enlaces o cualquier enlace particular a nuestro sitio web. Usted aprueba eliminar inmediatamente todos los enlaces a nuestro sitio web a pedido. También nos reservamos el derecho de modificar estos términos y condiciones y su política de vinculación en cualquier momento. Al vincularse continuamente a nuestro sitio web, usted acepta estar sujeto y seguir estos términos y condiciones de vinculación.",
+        "text": "¡Bienvenido a Trades.org! Estos términos y condiciones describen las reglas y regulaciones para el uso de Trades.org. Al acceder a este sitio web asumimos que acepta estos términos y condiciones. No continúe usando Trades.org si no está de acuerdo con todos los términos y condiciones establecidos en esta página. La siguiente terminología se aplica a estos Términos y condiciones, Declaración de privacidad y Aviso de exención de responsabilidad y todos los Acuerdos: 'Cliente', 'Usted' y 'Su' se refiere a usted, la persona que inicia sesión en este sitio web y cumple con los términos y condiciones de la Compañía. 'La Compañía', 'Nosotros mismos', 'Nosotros', 'Nuestro' y 'Nos', se refiere a nuestra Compañía. 'Parte', 'Partes' o 'Nosotros', se refiere tanto al Cliente como a nosotros mismos. Todos los términos se refieren a la oferta, aceptación y consideración del pago necesario para llevar a cabo el proceso de nuestra asistencia al Cliente de la manera más adecuada con el propósito expreso de satisfacer las necesidades del Cliente con respecto a la prestación de los servicios indicados por la Compañía, de conformidad con y sujeto a la legislación vigente de los Países Bajos. Cualquier uso de la terminología anterior u otras palabras en singular, plural, mayúsculas y/o él/ella o ellos, se consideran intercambiables y, por lo tanto, se refieren a las mismas.",
+        "userCommentsAndOpinions": "Partes de este sitio web ofrecen una oportunidad para que los usuarios publiquen e intercambien opiniones e información en ciertas áreas del sitio web. Trades.org no filtra, edita, publica ni revisa los Comentarios antes de su presencia en el sitio web. Los comentarios no reflejan los puntos de vista y opiniones de Trades.org, sus agentes y/o afiliados. Los comentarios reflejan los puntos de vista y las opiniones de la persona que publica sus puntos de vista y opiniones. En la medida en que lo permitan las leyes aplicables, Trades.org no será responsable de los Comentarios ni de ninguna responsabilidad, daño o gasto causado y/o sufrido como resultado de cualquier uso y/o publicación y/o aparición de los Comentarios. en este sitio web. Trades.org se reserva el derecho de monitorear todos los Comentarios y eliminar cualquier Comentario que pueda considerarse inapropiado, ofensivo o que cause el incumplimiento de estos Términos y Condiciones.",
+        "youWarrantAndRepresent": "Usted garantiza y declara que:",
+        "youWarrantAndRepresentBullets1": "Tiene derecho a publicar los Comentarios en nuestro sitio web y tiene todas las licencias y consentimientos necesarios para hacerlo;",
+        "youWarrantAndRepresentBullets2": "Los Comentarios no invaden ningún derecho de propiedad intelectual, incluidos, entre otros, derechos de autor, patentes o marcas comerciales de terceros;",
+        "youWarrantAndRepresentBullets3": "Los Comentarios no contienen ningún material difamatorio, calumnioso, ofensivo, indecente o ilegal que sea una invasión de la privacidad.",
+        "youWarrantAndRepresentBullets4": "Los Comentarios no se utilizarán para solicitar o promover negocios o costumbres o presentar actividades comerciales o actividades ilegales.",
+        "yourPrivacy": "Tu privacidad",
+        "yourPrivacyText": "Por favor, lea la Política de Privacidad"
+    },
+    "toughLove": {
+        "alt1": "Vector",
+        "alt2": "recortar",
+        "buildWebsite": {
+            "alt1": "Captura de pantalla de ejemplo",
+            "alt2": "anillo",
+            "alt3": "Imagen de soporte",
+            "alt4": "Logotipo de BBB",
+            "paragraph1": "Trades.org es, simplemente, la única plataforma que ofrece una solución integral y asequible que requiere muy poco esfuerzo de gestión. Nuestros competidores solo te ayudarán con partes de tu marketing, pero no se comprometerán a asegurarse de que tengas éxito.",
+            "paragraph2": "Queremos asegurarnos de que el crecimiento de tu negocio no se estanque. Es hora de ganar terreno en tu industria sin gastar miles de dólares al año solo para sobrevivir.",
+            "paragraph3": "Crea tu sitio web gratuito ahora y déjanos cuidar de ti. Si no ves resultados después de tres meses, te devolveremos tu dinero.",
+            "paragraph4": "Estamos aquí para apoyarte. Te ayudaremos a gestionar tu equipo, marketing, sitio web y opiniones a través de un panel de control fácil de usar para que puedas centrarte en lo que haces mejor.",
+            "paragraph5": "Nuestro equipo de Conserjería galardonado está aquí para ti las 24 horas, los 7 días de la semana, para responder a cualquier pregunta que puedas tener durante tu trayecto.",
+            "paragraph6": "Obtén tu sitio web gratuito y listo para lanzar para ver lo fácil que es hacer crecer tu negocio.",
+            "title1": "Nadie lo hace como nosotros.",
+            "title2": "Estamos comprometidos con tu éxito.",
+            "title3": "Nuestro soporte de primera clase",
+            "title4": "está aquí para ti las 24 horas, los 7 días de la semana."
+        },
+        "easyToUse": {
+            "data": {
+                "competitors": "TUS COMPETIDORES",
+                "speciality": "TU ESPECIALIDAD COMERCIAL"
+            },
+            "paragraph1": "Nuestra plataforma fue construida pensando en las empresas del sector. Nos dimos cuenta de que las empresas del sector no tienen herramientas de gestión empresarial que estén verdaderamente alineadas con sus objetivos.",
+            "paragraph2": "Existen muchos servicios de gestión de sitios web o redes sociales. Sin embargo, sus altas tarifas de suscripción hacen que tu negocio pierda mucho capital y su diseño genérico significa que aún pasarás horas preciosas gestionando la suscripción. Necesitas un producto intuitivo y diseñado para tu negocio ocupado y en crecimiento.",
+            "paragraph3": "La verdad es que hay mucha competencia en la industria local del sector. Nos dimos cuenta de lo difícil que es destacar, y diseñamos nuestra plataforma para cubrir las carencias donde la mayoría de las empresas fallan. Quita de tu lista de tareas el marketing y la gestión empresarial con los servicios adaptados de trades.org para la industria de la construcción.",
+            "title": "Nuestra plataforma fácil de usar produce resultados avanzados."
+        },
+        "faq": {
+            "title1": "Respuestas a preguntas",
+            "title2": "frecuentes que recibimos...",
+            "title3": "Aquí tienes algunas respuestas a preguntas frecuentes que recibimos..."
+        },
+        "hero": {
+            "alt1": "Fontanero",
+            "alt2": "Circular",
+            "paragraph1": "Construiremos un sitio web atractivo para tu negocio que se posicione alto en los resultados de búsqueda y genere reseñas de calidad sobre tu trabajo, todos factores importantes para ganar más trabajos.",
+            "paragraph2": "Obtén tu sitio web gratuito y listo para lanzar en solo minutos...",
+            "paragraph3": "SIN OBLIGACIONES, SIN CONTRATOS, CANCELA EN CUALQUIER MOMENTO",
+            "title1": "Te ayudaremos a destacar y conseguir más trabajos."
+        },
+        "readyToLaunch": {
+            "alt1": "Diseño recortado",
+            "alt2": "Pie de página superior",
+            "paragraph": "¡Obtén tu sitio web gratuito y listo para lanzar en solo minutos y comienza a obtener resultados!",
+            "title": "¿Listo para dominar tu industria local del sector?"
+        },
+        "testimonials": {
+            "alt": "Imagen del evaluador",
+            "data": {
+                "body1": "“Esto es exactamente lo que necesitaba nuestro negocio. Simplemente no teníamos el conocimiento o el tiempo para invertir en la gestión del sitio web. ¡Nuestras ventas han aumentado un 28% en los últimos seis meses desde que comenzamos a usar trades.org!”",
+                "body2": "“Excelente servicio al cliente y, lo más importante, esta plataforma fue muy fácil de usar para nosotros. He estado tan ocupado ayudando con el soporte al cliente y saliendo al campo para hacer fontanería que no he podido prestarle ninguna atención real a nuestro sitio web y nuestros esfuerzos de marketing. Pero ahora que hemos resuelto las cosas con trades.org, todo funciona sin problemas.”",
+                "body3": "“Simplemente funciona. Suscríbete y deja que hagan su trabajo. ¡Estoy muy satisfecho!”",
+                "body4": "“He sido fontanero durante más de 25 años y no fue hasta mi año número 26 que decidí obtener un sitio web y ayuda en marketing, y déjame decirte que estoy encantado con los resultados.”",
+                "body5": "“Decidí comenzar mi propio negocio como electricista y trades.org lo hizo muy fácil. ¡Es una gran herramienta!”",
+                "body6": "“Antes, no tenía suficiente trabajo y estaba estresado por llevar el negocio. Hoy en día, tengo el doble de clientes que están contentos y vuelven para más trabajo.”",
+                "position1": "Subcontratista",
+                "position2": "Técnico de fontanería",
+                "position3": "Contratista general",
+                "position4": "Fontanero",
+                "position5": "Electricista",
+                "position6": "Desarrollador"
+            },
+            "title": "Esto es lo que dicen nuestros clientes sobre nosotros..."
+        },
+        "tradePro": {
+            "alt1": "Imagen de direcciones",
+            "alt2": "Imagen de profesional del sector",
+            "reviews": "OPINIONES"
+        }
+    }
+}
+

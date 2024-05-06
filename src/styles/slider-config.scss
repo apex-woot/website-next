@@ -1,0 +1,30 @@
+//Slider config for start free landing
+.slick-slider-custom {
+    @media only screen and (max-width: 1024px) {
+        padding-bottom: 90px;
+    }
+}
+
+.slick-center div div {
+    opacity: 1;
+}
+
+.slick-dots {
+    bottom: 65px;
+}
+
+.slick-dots li button:before {
+    display: none;
+}
+
+.slick-dots li button {
+    background-color: #c4c4c4;
+    border-radius: 25px;
+    width: 25px;
+    height: 25px;
+}
+
+.slick-dots li.slick-active button {
+    background-color: #5ebcfc;
+}
+

@@ -1,0 +1,823 @@
+{
+    "basicShortForm": {
+        "formHeader1": "Join now for FREE",
+        "formHeader2": "to get started",
+        "heroHeader1": "Win more jobs with",
+        "heroHeader2": "a customer-centric",
+        "heroHeader3": "pro website."
+    },
+    "common": {
+        "brandManagement": "Brand Management",
+        "dashboard": "Dashboard",
+        "form": {
+            "emailLabel": "Email Address",
+            "emailPlaceholder": "Enter your email address",
+            "error": "Something went wrong. Try again!",
+            "fullNameLabel": "Full Name",
+            "fullNamePlaceholder": "Enter your full name",
+            "phoneNumberLabel": "Phone Number",
+            "phoneNumberPlaceholder": "Enter your phone number",
+            "required": "Required",
+            "srCountry": "Country"
+        },
+        "getStarted": "Get started",
+        "getStartedButton": "Get started for free",
+        "onlinePresence": "We'll help you take your online presence to the next level...",
+        "pricing": {
+            "perMonth": "/mo",
+            "perMonthTooltip": "Billed monthly"
+        },
+        "reputationManagement": "Reputation Management",
+        "websiteManagment": "Website Management"
+    },
+    "contact": {
+        "title": "We would love to connect"
+    },
+    "contactUs": {
+        "fbText": "Like us on Facebook",
+        "igText": "Follow us on Instagram"
+    },
+    "faqTemplateData": {
+        "answer1": "Whether it’s just you and your truck or you have a crew of hundreds, how your customers see you is your brand. No matter your size, we’ll help you build brand recognition and a stellar reputation online and in the real world.",
+        "answer2": "Whether it’s just you and your truck or you have a crew of hundreds, how your customers see you is your brand. No matter your size, we’ll help you build brand recognition and a stellar reputation online and in the real world.",
+        "answer3": "Whether it’s just you and your truck or you have a crew of hundreds, how your customers see you is your brand. No matter your size, we’ll help you build brand recognition and a stellar reputation online and in the real world.",
+        "answer4": "Whether it’s just you and your truck or you have a crew of hundreds, how your customers see you is your brand. No matter your size, we’ll help you build brand recognition and a stellar reputation online and in the real world.",
+        "answer5": "Whether it’s just you and your truck or you have a crew of hundreds, how your customers see you is your brand. No matter your size, we’ll help you build brand recognition and a stellar reputation online and in the real world.",
+        "answer6": "Whether it’s just you and your truck or you have a crew of hundreds, how your customers see you is your brand. No matter your size, we’ll help you build brand recognition and a stellar reputation online and in the real world.",
+        "question1": "Can I change or cancel my plan?",
+        "question2": "Do you offer a guarantee?",
+        "question3": "How long will it take to get started?",
+        "question4": "Can I make changes to my website or profiles?",
+        "question5": "How does a website help me reach more customers?",
+        "question6": "I don’t have a brand. It’s just me. Do I really need these services?"
+    },
+    "features": {
+        "subtitle": "trades.org has your back",
+        "title": "Running a company is hard. We're here to help.",
+        "utils": {
+            "title1": "Managed website and profiles",
+            "title2": "Phone and email receptionist",
+            "title3": "Access to network of qualified subs",
+            "title4": "Business and personal insurance",
+            "title5": "Project and personal financing",
+            "title6": "Customer invoicing and collections"
+        }
+    },
+    "footerUtils": {
+        "footerNavigations": {
+            "contact": "Contact",
+            "pricing": "Pricing",
+            "privacy": "Privacy",
+            "terms": "Terms"
+        },
+        "forMarketing": {
+            "branding": "Logo design, business cards, and more",
+            "commsManagement": "Phone, chat, and email answering",
+            "projectLeads": "'Only pay when you close' leads",
+            "reputationManagement": "Job review and reputation management",
+            "socialManagement": "Social profiles, set up and managed",
+            "title": "For Marketing",
+            "websiteManagement": "Website optimized to produce leads"
+        },
+        "forOperations": {
+            "businessContracts": "Standard contracts for projects and subs",
+            "businessInsurance": "Business insurance by period or project",
+            "materialsDiscounts": "Discounted materials pricing",
+            "projectBilling": "Invoicing, billing, collections, and liens",
+            "projectFinancing": "Project financing for your customers",
+            "staffingSupport": "Access to network of qualified subs",
+            "title": "For Operations"
+        },
+        "forYouandFamily": {
+            "businessLoans": "Personal and equipment financing",
+            "education": "Educational concierge and resources",
+            "partnerPerks": "Free and discounted partner perks",
+            "personalFinances": "Credit building and financial support",
+            "personalInsurance": "Personal health, dental, and vision",
+            "retirement": "Tax-advantaged retirement programs",
+            "title": "For YouandFamily"
+        },
+        "headings": {
+            "forMarketing": "For marketing",
+            "forOperations": "For operations",
+            "forYouAndYourFamily": "For you and your family"
+        }
+    },
+    "formValidation": {
+        "invalidEmail": "Invalid email",
+        "invalidFullName": "Invalid full name",
+        "invalidPhone": "Invalid phone number"
+    },
+    "freeForm": {
+        "form": {
+            "header1": "LIMITED TIME OFFER:",
+            "header2": "STARTUP FEE WAIVED",
+            "subtitle": "Ready-to-Launch Website",
+            "title": "Get Your FREE"
+        },
+        "hero": {
+            "alt": "ring",
+            "header1": "GET YOUR FREE READY-TO- LAUNCH WEBSITE NOW:",
+            "header2": "STARTUP FEE WAIVED",
+            "title": "Our websites are tailored to get you results."
+        }
+    },
+    "homeHero": {
+        "alt": "hero-image",
+        "text": "Interested in saving time and making more money? Start by answering a few questions.",
+        "title": "We help trade businesses run and grow."
+    },
+    "limitedOfferForm": {
+        "hero": {
+            "alt1": "ring",
+            "alt2": "Curve",
+            "fee": "STARTUP FEE WAIVED",
+            "subtitle": "GET YOUR FREE READY-TO-LAUNCH WEBSITE NOW:",
+            "title": "Your trade business deserves a bold website."
+        },
+        "services": {
+            "description1": "When creating trades.org, we took the most important elements of running a successful trade business and deconstructed it to fit them into a simple-to-use, yet powerful interface.",
+            "description2": "Below, you will find our three main features that will get you more reviews, more jobs, and more revenue:",
+            "service1": {
+                "alt": "vector",
+                "description": "We’ll create a professional website that builds trust in your work. Easy and quick, your new site will create leads, convert sales and increase your income.",
+                "subtitle1": "A HIGH RANKING WEBSITE",
+                "subtitle2": "CAN LIFT SALES BY 50%"
+            },
+            "service2": {
+                "alt": "settings",
+                "description": "Build a professional presence where your clients are on social media. Engage future customers with new ideas, beautiful photos and glowing reviews.",
+                "subtitle1": "PROPER BRAND MANAGEMENT",
+                "subtitle2": "CAN LIFT SALES BY 33%"
+            },
+            "service3": {
+                "alt": "Checked",
+                "description": "We manage your reputation by requesting online reviews, highlighting positive customer experiences and helping you quickly problem solve when things go wrong.",
+                "subtitle1": "QUALITY REVIEWS",
+                "subtitle2": "CAN LIFT SALES BY 18%"
+            },
+            "subtitle": "trades.org = More Reviews + More Jobs + More Revenue",
+            "title": "Whats our secret formula?"
+        }
+    },
+    "login": {
+        "alt": "login-hero",
+        "continueWith": "Or continue with",
+        "forgetPassword": {
+            "resetButton": "Reset my password"
+        },
+        "form": {
+            "errorMessage": "A user with this phone number and email address already exists. If you would like to login to your account, please use one of the 'Login to Account' options.",
+            "signUpBtn": "Sign up now"
+        },
+        "login": "Please login to your dashboard using the options below",
+        "signUp": "Create an account below",
+        "signUpAndClaimWebsite": "Create an account to claim your website",
+        "signupActivate": "To activate your account, please sign up using one of the options below.",
+        "signupClaim": "Please sign up to claim your website.",
+        "signupPaid": "Thank you for your purchase!",
+        "tabs": {
+            "login": "Login to Account",
+            "signUp": "Create an Account"
+        },
+        "title": "Welcome to"
+    },
+    "loginButtons": {
+        "auth": "Successfully connected as",
+        "loading": "Loading...",
+        "login": "Login with",
+        "phone": "Connect with Phone",
+        "signup": "Continue with"
+    },
+    "navbar": {
+        "chooseLanguage": "Choose your language",
+        "join": "Join for Free",
+        "locales": {
+            "en": "English",
+            "es": "Spanish"
+        },
+        "signIn": "Sign in",
+        "signOut": "Sign out",
+        "text": "We support trade pros and their customers."
+    },
+    "navigations": {
+        "contactUs": "Contact Us",
+        "forYouAndYourFamily": "For You and Your Family",
+        "home": "Home",
+        "marketingServices": "Marketing Services",
+        "operationsSupport": "Operations Support",
+        "pricing": "Pricing"
+    },
+    "pages": {
+        "404": {
+            "homeButton": "Home",
+            "oops": "Oops!",
+            "title": "We can’t seem to find that page. Try visiting the home page."
+        },
+        "careers": {
+            "seo": "Open Positions"
+        },
+        "contact": {
+            "contact": "trades.org contact",
+            "contactUs": "Contact Us",
+            "seo": "Contact | Trade Pros"
+        },
+        "home": {
+            "seo": "Trade Pros",
+            "subtitle": "Prices start at just $49/month",
+            "title": "Focus on delighting your customers. We'll handle everything else."
+        },
+        "marketingServices": {
+            "seo": "Marketing | Trade Pros"
+        },
+        "operations": {
+            "seo": "Operations | Trade Pros"
+        },
+        "personal": {
+            "seo": "You and Your Family | Trade Pros"
+        },
+        "pricing": {
+            "seo": "We help trade workers succeed!"
+        },
+        "privacy": {
+            "seo": "Privacy | Trade Pros",
+            "subtitle": "trades.org privacy",
+            "title": "Privacy Policy"
+        },
+        "templateSelectionLanding": {
+            "header1": "It's time you",
+            "header2": "give your business",
+            "header3": "the website it deserves."
+        },
+        "terms": {
+            "seo": "Terms | Trade Pros",
+            "subtitle": "trades.org terms",
+            "title": "Terms of Service"
+        }
+    },
+    "pagesData": {
+        "marketing": {
+            "getStarted": {
+                "subtitle": "Prices start at just $49/month",
+                "title": "Worry less and earn more with trades.org on your team."
+            },
+            "hero": {
+                "subtitle": "trades.org marketing",
+                "title1": "Build a trusted brand,",
+                "title2": "win more jobs, and",
+                "title3": "grow your business."
+            },
+            "services": {
+                "feature1": {
+                    "description1": "Your brand shows what you stand for. Get help choosing a business name or designing the perfect logo.",
+                    "description2": "With branded clothing you and your team will come across as professional, trustworthy, and put-together.",
+                    "description3": "We have hundreds of marketing items in our catalogue that you can use to grow your business.",
+                    "description4": "A business number is necessary for growth: easily screen unwanted calls or have someone else answer the phone for you.",
+                    "title1": "Logo design and branding services",
+                    "title2": "Branded shirts, hats, bags, and other clothing",
+                    "title3": "Business cards, car decals, yard signs, and more",
+                    "title4": "Dedicated work phone numbers"
+                },
+                "feature2": {
+                    "description1": "We’ll set up and manage your professionally designed website so that customers can easily find, trust, and hire you.",
+                    "description2": "We'll set up and manage your listings across Yelp, Facebook, Houzz, and more to drive new business.",
+                    "description3": "We'll request reviews from happy customers across your profiles, and quickly handle complaints when they come up.",
+                    "description4": "Increase your win and referral rates by having us send hand-written cards to your leads and customers.",
+                    "title1": "Website optimized for selling",
+                    "title2": "Business profile across social and directories",
+                    "title3": "Job review and reputation management",
+                    "title4": "Hand-written thank you cards"
+                },
+                "feature3": {
+                    "description1": "Pay-per-lead is a waste of money. We'll send you free opportunities, and only take a commission if you win.",
+                    "description2": "We'll handle your sales communications quickly and professionally, delighting leads and saving you time.",
+                    "description3": "Getting leads from Home Depot, HomeAdvisor, etc.? Our team will qualify and convert those into appointments.",
+                    "description4": "We provide competitive intelligence, including other bids your leads have received, so you can learn and improve.",
+                    "title1": "'Only pay if you win' job opportunities",
+                    "title2": "Phone, text, and email handling services",
+                    "title3": "Outbound lead-servicing sales team",
+                    "title4": "Learn from the competition"
+                },
+                "subtitle1": "A clean, professional, and consistent brand will make you easy to identify and remember.",
+                "subtitle2": "Customers are researching you online. We'll make sure you make a good impression.",
+                "subtitle3": "Focus on delivering excellent service, and let us handle everything else.",
+                "title1": "Build your brand",
+                "title2": "Win more jobs",
+                "title3": "Grow your business"
+            }
+        },
+        "operations": {
+            "getStarted": {
+                "subtitle": "Become a member for free.",
+                "title": "You'll get more done with trades.org on your team."
+            },
+            "hero": {
+                "subtitle": "trades.org operations",
+                "title1": "Free up your time,",
+                "title2": "make more money, and",
+                "title3": "delight your customers."
+            },
+            "services": {
+                "feature1": {
+                    "description1": "Have a question or need help with something specific? Our network of experts and mentors want to help.",
+                    "description2": "Easily get affordable business and project insurance on a per project, monthly, quarterly, or yearly basis.",
+                    "description3": "Our standard contracts protect your business and your customers, and ensure everyone is on the same page.",
+                    "description4": "Finding a good crew when you're in a pinch is hard. Access or national network to find and hire the best people.",
+                    "title1": "Concierge support and our mentorship network",
+                    "title2": "Business insurance by period or project",
+                    "title3": "Standard contracts for projects and subs",
+                    "title4": "Access to network of qualified subs"
+                },
+                "feature2": {
+                    "description1": "Your customers can quickly and easily apply for financing directly from trades.org or from your website",
+                    "description2": "Get paid more quickly and with fewer issues. Accept credit card and eCheck from your website and on the go.",
+                    "description3": "Access lower prices and earn commissions when you buy materials from our network of partners.",
+                    "description4": "We'll handle your sales inquiries quickly and professionally, qualifying leads and scheduling your on-sites.",
+                    "title1": "Project financing for your customers",
+                    "title2": "Invoicing, billing, collections, and liens",
+                    "title3": "Discounted materials pricing",
+                    "title4": "Appointment setting services"
+                },
+                "subtitle1": "We'll handle the most frustrating and time-consuming tasks so you can focus on making your customers happy.",
+                "subtitle2": "Increase your project size, capture a higher margin, and get paid faster with our tools and services.",
+                "title1": "Free your time",
+                "title2": "Make more money"
+            }
+        },
+        "personal": {
+            "getStarted": {
+                "subtitle": "It's free to get started. Join today.",
+                "title": "Get set up for success. Do it for your family, and your future."
+            },
+            "hero": {
+                "subtitle": "trades.org for you and your family",
+                "title1": "We help you take care ",
+                "title2": "of yourself and the",
+                "title3": "people you love."
+            },
+            "services": {
+                "feature1": {
+                    "description1": "We can help you with opening up financial accounts, building credit, doing your taxes, and more.",
+                    "description2": "Want to finance a purchase? We provide rent-to-own and personal loan financing options.",
+                    "description3": "You shouldn't have to work forever. We can help you set aside money and plan for your future.",
+                    "title1": "Credit building and help with finances",
+                    "title2": "Personal tool and equipment financing",
+                    "title3": "Tax-advantaged retirement programs"
+                },
+                "feature2": {
+                    "description1": "Get medical insurance for yourself and your family to keep your loved ones healthy and safe.",
+                    "description2": "Get support, mentorship, and educational resources to and your families live better lives.",
+                    "description3": "You and your family can take advantage of many free and discounted perks we've negotiated for you.",
+                    "title1": "Health, dental, and vision insurance",
+                    "title2": "Educational concierge and resources",
+                    "title3": "Free and discounted partner perks"
+                },
+                "subtitle1": "We can help you better manage money today and save better for your tomorrow.",
+                "subtitle2": "Get health insurance for you and your family, access to learning resources, and other perks.",
+                "title1": "Financial support",
+                "title2": "Healthcare and more"
+            }
+        }
+    },
+    "pricing": {
+        "desktopPricing": {
+            "brandMsg": "Your brand management subscription which is included in the Pro and Basic Plans includes all of the following services.",
+            "caption": "Pricing plan comparison",
+            "pricing": "Pricing",
+            "reputationMsg": "Get a well-designed engaging social profile on industry-specific sites like Houzz and Home Advisor that will impress potential customers with your expertise.",
+            "websiteMsg": "A website management subscription includes all of the following features in an easy-to-use, professionally designed website."
+        },
+        "faqs": {
+            "title": "Frequently Asked Questions about our Pro Plans"
+        },
+        "help": {
+            "alt": "Price Image",
+            "button": "Talk to a team member",
+            "description": "Call or chat with our team any time. We can answer your questions or walk you through our services. No sales jargon. Just the best, most accurate information, delivered quickly. We’ve got your back so you can focus on doing the hard work of your profession.",
+            "header": "BEST-IN-CLASS SUPPORT",
+            "title": "We’ve got your back"
+        },
+        "proPlan": {
+            "header": "Pro Plan",
+            "perMonth": "Per month",
+            "planComparison": "See the plan comparison",
+            "setupFee": "Setup fee",
+            "srPlus": "plus",
+            "srPrice": "Price",
+            "title1": "What you need to build trust and",
+            "title2": "grow",
+            "title3": "your business",
+            "today": "today"
+        },
+        "tableFooter": {
+            "sr": "Choose your plan"
+        },
+        "tableHeader": {
+            "header": "Plans",
+            "sr": "Feature by"
+        }
+    },
+    "pricingData": {
+        "detailedPlans": {
+            "basic": {
+                "buttonText": "GET THE BASICS",
+                "description": "Get the essential services of website management and brand management"
+            },
+            "features": {
+                "description1": "We’ll help you secure the custom URL that makes your company simple to find online. A business .com or .net web address looks professional and is easy to remember.",
+                "description10": "Your past customers are your best advertisers. Let them tell their story about your business work and ethic.",
+                "description11": "Capture your website visitor’s phone number or email address. We’ll add it to your contacts so you never miss another lead.",
+                "description12": "Allow customers to schedule appointments right from your site. Automate the qualification process and close more sales by asking all the right questions.",
+                "description13": "Use our streamlined platform to send email invoices to clients. We’ll remind them when they are past due and sync outstanding payment information with your accounting system.",
+                "description14": "Accept payment through any method your customers use. Our online payment system can send money through checks, bank transfer, credit car or a digital wallet.",
+                "description15": "Utilize our website financing tool to get loans for your future customers. Let them explore all the possibilities for their next project right on your page.",
+                "description16": "Provide you customers with an estimate of what their project will cost so they can plan accordingly. Show them how you can add special features and expand on their plans in an unique tool that easily adjusts. ",
+                "description2": "One dedicated phone number for your business that we can forward to your personal phone or you can assign to an employee. We make it easy to identify and prioritize business communication.",
+                "description3": "A business email address looks professional and makes it easy to differentiate your personal and business messages. You can even turn over this task to an employee.",
+                "description4": "Stand out online with any of our easy-to-use website templates. No matter the size of your business, a trades.org template will provide a seamless user experience.",
+                "description5": "When potential customers search for a service provider, your name will be among their top results when we optimize your website.",
+                "description6": "Comprehensive analytics through Google help you make informed decisions about your website and advertising. Clearly see what works best for your business.",
+                "description7": "A trades.org All About Me page lets a customer get to know you, your team and your top-quality work. We make it easy for visitors to get in touch and become customers.",
+                "description8": "Engage your next customer with a photo gallery portfolio of your projects. Let high quality photos tell the story of your hard work, dedication and expertise.",
+                "description9": "Add a database of FAQs to your website to answer to your customer’s most pressing concerns. This ever-evolving list will make you the go-to for educational content.",
+                "name1": "Business URL",
+                "name10": "Customer reviews",
+                "name11": "Lead forms",
+                "name12": "Scheduling",
+                "name13": "Invoicing",
+                "name14": "Payment Processing",
+                "name15": "Customer financing",
+                "name16": "Project price estimation tool",
+                "name2": "Business phone number",
+                "name3": "Multiple templates",
+                "name4": "Easy editing tools",
+                "name5": "Search Engine Optimization",
+                "name6": "Web analytics",
+                "name7": "About Me and Contact pages",
+                "name8": "Project photo galleries ",
+                "name9": "Searchable FAQs"
+            },
+            "lite": {
+                "buttonText": "START LITE",
+                "description": "Start small with room to grow! Our Lite Plan is just website management. "
+            },
+            "pro": {
+                "buttonText": "GO PRO",
+                "description": "Our best value! Includes website management, brand management and reputation management services"
+            },
+            "reporting": {
+                "description1": "We’ll build and maintain your social profile on Google My Business, Yelp and Facebook. With engaging pictures and informative content, visitors will become buyers.",
+                "description2": "Get a well-designed engaging social profile on industry-specific sites like Houzz and Home Advisor that will impress potential customers with your expertise.",
+                "description3": "We create and manage your profiles on any general platform such as Foursquare and Maps. This basic information will help more qualified leads find your business.",
+                "description4": "Your custom social profile will be optimized for maximum search results. We keep customers engaged with accurate business information and educational content.",
+                "description5": "Implement best practices and keep up with changes for each platform so you show up high in results.",
+                "description6": "Update your information and content in just one system and we’ll make sure it appears across all of your platforms. Save time and ensure all your profiles are up to date.",
+                "description7": "We manage and route in-coming communication on all platforms so you can quickly and efficiently respond for the best customer experience.",
+                "description8": "Your updated profile won’t lead to more spam calls. We’ll block all those robo calls so you feel confident when you pick up the phone. ",
+                "name1": "Write and manage VIP social profiles",
+                "name2": "Write and manage profiles on trade directories",
+                "name3": "Write and manage searchable general profiles",
+                "name4": "Social search optimization",
+                "name5": "Algorithm and sales optimization",
+                "name6": "Centralized publishing",
+                "name7": "In-coming communication center",
+                "name8": "Block sales calls through social channels"
+            },
+            "support": {
+                "description1": "We’ll check in with a prospective customer after your initial contact. The valuable information we collect will help you understand their needs and secure the sale.",
+                "description2": "We check in with clients after the first day of work to answer questions, get feedback and address concerns. We help you cultivate happy customers from the first day.",
+                "description3": "We check in with your customers right before your project ends to make sure they are satisfied with the work and don’t have any unmet expectations you are unaware of.",
+                "description4": "We check in with your customers throughout the project. Understanding their expectations and experiences help you make adjustments that lead to happy customers.",
+                "description5": "Seamlessly connect the trades.org reputation management program with your existing CRM or access it through out application or by text message.",
+                "description6": "We contact customers at the end of the project to ask for reviews and referrals. This positive feedback will improve your reputation and drive new business.",
+                "description7": "We help you deal with unhappy customers by finding a solution to the problem. We help you make it right and secure edited online reviews.",
+                "name1": "First touch follow-up",
+                "name2": "Job start check-in",
+                "name3": "Wrap up review",
+                "name4": "Real time actionable feedback",
+                "name5": "Easy integration and accessibility",
+                "name6": "Reputation building",
+                "name7": "Reputation protection"
+            }
+        },
+        "faqs": {
+            "answer1": "Yes! You can cancel or adjust your plan at any time. Changes take effect at the end of the billing period when the change is made.",
+            "answer2": "Absolutely. We’re so confident that we’ll boost your sales, brand and reputation, that we’ll refund your last three months of service if you’re not seeing results.",
+            "answer3": "After choosing your plan you’ll go through a quick and easy onboarding with one of our staff. Your website will be up and running just a few hours later. You don’t need any design or computer skills; we’ll handle all of that for you!",
+            "answer4": "We make it easy for you to add photos and make updates yourself, but if you want help, our staff is ready and able to make those changes for you. As long as you’re a trades.org member, your website will be fully functional and employ all of our website tools in a way that works best for your business.",
+            "answer5": "Your virtual presence is a potential customer’s initial and most powerful impression of your business. Make it easy for homeowners to find and hire you with a website and social profiles that are clear, attractive and offer an easy way to take the next step.",
+            "answer6": "Whether it’s just you and your truck or you have a crew of hundreds, how your customers see you is your brand. No matter your size, we’ll help you build brand recognition and a stellar reputation online and in the real world.",
+            "question1": "Can I change or cancel my plan?",
+            "question2": "Do you offer a guarantee?",
+            "question3": "How long will it take to get started?",
+            "question4": "Can I make changes to my website or profiles?",
+            "question5": "How does a website help me reach more customers?",
+            "question6": "I don’t have a brand. It’s just me. Do I really need these services?"
+        },
+        "features": {
+            "brandDescription": "Build a professional presence where your clients are- on social media. Engage future customers with new ideas, beautiful photos and glowing reviews.",
+            "reputationDescription": "We manage your reputation by requesting online reviews, highlighting positive customer experiences and help you quickly problem solve when things go wrong.",
+            "websiteDescription": "We’ll create a professional website that builds trust in your work. Easy and quick, your new site will create leads, convert sales and increase your income."
+        },
+        "price": {
+            "subFeatures": {
+                "1": "Quick and easy",
+                "2": "Guaranteed return on investment",
+                "3": "No coding knowledge required",
+                "4": "Find new customers",
+                "5": "Build a professional reputation",
+                "6": "Have happy customers"
+            },
+            "subFeaturesMobile": {
+                "1": "Website Management",
+                "2": "Brand Management",
+                "3": "Reputation management",
+                "4": "Guaranteed return on investment",
+                "5": "Quick and easy",
+                "6": "Build your business"
+            }
+        }
+    },
+    "pricingPlans": {
+        "annual": {
+            "management": "Management: Annual",
+            "phoneNumber": "$0 Business Phone Number: Incl. with Website",
+            "reputationManagment": "$490 Reputation",
+            "setUp": "$79 Set-up Fee: For Annual, Semiannual Subs",
+            "socialProfile": "$490 Social Profile",
+            "website": "$490 Website: Annual"
+        },
+        "discounts": {
+            "20perCent": "20% package discount",
+            "25perCent": "25% package discount",
+            "77Dollars": "$77 package discount"
+        },
+        "packageName": {
+            "brandPackage": "Brand Package",
+            "findMe": "\"Find Me\" Package",
+            "proPackage": "Pro Package",
+            "trustMe": "\"Trust Me\" Package",
+            "website": "Website"
+        },
+        "priceBreakdown": {
+            "LawSignDesign": "$39 Law Sign Design",
+            "businessCardDesign": "$39 Business Card Design",
+            "carDecalDesign": "$59 Car Decal Design",
+            "logoDesign": "$149 Logo Design",
+            "management": "Management: Monthly",
+            "monthly": "$49 Website: Monthly",
+            "monthlySubs": "$99 For Monthly Subs",
+            "phoneNumber": "$0 Business Phone Number:",
+            "reputationManagment": "$49 Reputation Management: Monthly",
+            "socialProfile": "$49 Social Profile",
+            "withWebsite": "Incl. with Website"
+        },
+        "semiannual": {
+            "management": "Management: Semiannual",
+            "phoneNumber": "$0 Business Phone Number: Incl. with Website",
+            "reputationManagment": "$269 Reputation",
+            "setUp": "$79 Set-up Fee: For Annual, Semiannual Subs",
+            "socialProfile": "$269 Social Profile",
+            "website": "$269 Website: Semiannual"
+        }
+    },
+    "privacyData": {
+        "advertising": "Advertising Partners Privacy Policies",
+        "advertisingText": "You may consult this list to find the Privacy Policy for each of the advertising partners of trades.org. Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on trades.org, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit. Note that trades.org has no access to or control over these cookies that are used by third-party advertisers.",
+        "ccpa": "CCPA Privacy Rights (Do Not Sell My Personal Information)",
+        "ccpaText": "Under the CCPA, among other rights, California consumers have the right to: Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers. Request that a business delete any personal data about the consumer that a business has collected. Request that a business that sells a consumer's personal data, not sell the consumer's personal data. If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.",
+        "childrensInfo": "Children's Information",
+        "childrensInfoText": "Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity. trades.org does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.",
+        "consent": "Consent",
+        "consentText": "By using our website, you hereby consent to our Privacy Policy and agree to its terms.",
+        "cookies": "Cookies and Web Beacons",
+        "cookiesText": "Like any other website, trades.org uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information. For more general information on cookies, please read 'What Are Cookies' from Cookie Consent.",
+        "gdpr": "GDPR Data Protection Rights",
+        "gdprText": "We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following: The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service. The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete. The right to erasure – You have the right to request that we erase your personal data, under certain conditions. The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions. The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions. The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions. If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.",
+        "infoWeCollect": "Information we collect",
+        "infoWeCollectText": "The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information. If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide. When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.",
+        "informationHandle": "How we use your information",
+        "informationHandleBullets1": "Provide, operate, and maintain our website",
+        "informationHandleBullets2": "Improve, personalize, and expand our website",
+        "informationHandleBullets3": "Understand and analyze how you use our website",
+        "informationHandleBullets4": "Develop new products, services, features, and functionality",
+        "informationHandleBullets5": "Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes",
+        "informationHandleBullets6": "Send you emails",
+        "informationHandleBullets7": "Find and prevent fraud",
+        "informationHandleText": "We use the information we collect in various ways, including to:",
+        "logFiles": "Log Files",
+        "logFilesText": "trades.org follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.",
+        "text": "At trades.org, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by trades.org and how we use it. If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us. This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in trades.org. This policy is not applicable to any information collected offline or via channels other than this website.",
+        "thirdParty": "Third Party Privacy Policies",
+        "thirdPartyText": "trades.org's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites."
+    },
+    "services": {
+        "alt": "service_icon",
+        "learnMore": "Learn More"
+    },
+    "startFree": {
+        "buttonTitle": "Get Started Now",
+        "opportunities": {
+            "body": "Our platform was engineered to rank higher on search results giving you more organic visibility.",
+            "data": {
+                "competitors": "YOUR COMPETITORS",
+                "speciality": "YOUR TRADE SPECIALITY"
+            },
+            "head": "You win more jobs when you’re easy to find online."
+        },
+        "span": "*Websites are billed at $49/month until you cancel.",
+        "templateSectionUtils": {
+            "body": "Our platform was engineered to rank higher on search results giving you more organic visibility.",
+            "head": "Choose from a variety of attractive templates tailored for pros.",
+            "template": "Template"
+        },
+        "testimonials": {
+            "body": "We’d love to share your success story.<br> What are you waiting for?",
+            "head": "Success stories from pros across the country...",
+            "nextArrow": "Next Arrow",
+            "prevArrow": "Prev Arrow",
+            "utils": {
+                "body1": "“This is exactly what our business needed. We just didn't have the knowledge or time to invest in website management. Our sales have gone up 28% in the last six months since we started using trades.org!”",
+                "body2": "“Excellent customer service and most importantly, this platform was super easy for us to use. I’ve been so busy helping with client support and getting out in the field to do plumbing, I haven't been able to give our website and marketing efforts any real attention. But now that we solved things with trades.org, we are running smoothly.”",
+                "body3": "“It just works. You get a subscription and let them do their thing. I’m very pleased!”",
+                "body4": "“I’ve been a plumber for over 25 years and it wasn't till my 26th year that I decided to get a website and marketing help, and let me tell you I’m thrilled with the results!”",
+                "body5": "“I decided to start my own business as an electrician and trades.org made it very easy to do so. It’s a great tool!”",
+                "body6": "“Before, I wasn’t getting enough work and was stressed about running the business. Today, I have twice as many clients that are happy and returning for more work.”",
+                "position1": "Subcontractor",
+                "position2": "Plumbing Tech",
+                "position3": "General Contractor",
+                "position4": "Plumber",
+                "position5": "Electrician",
+                "position6": "Developer"
+            }
+        },
+        "titleBottom": "Winning jobs starts with a pro website. Let’s go!",
+        "titleTop": "We’ll build and manage your website for just $49*",
+        "tradeProNew": {
+            "reviews": "STAR REVIEWS"
+        }
+    },
+    "templateSelection": {
+        "step1": {
+            "action1": "TEMPLATE SELECTED!",
+            "action2": "Click to continue",
+            "subtitle1": "Select from one of our templates below to get",
+            "subtitle2": "your website set up in just minutes.",
+            "title1": "Choose a design",
+            "title2": "to customize"
+        },
+        "step2": {
+            "title1": "Let's setup your",
+            "title2": "Free account"
+        }
+    },
+    "templatesCommonComponents": {
+        "data": {
+            "bullet1": "Get an attractive website built for your trade industry",
+            "bullet2": "Win more jobs by increasing your online visibility",
+            "bullet3": "24/7 support to help you every step of the way",
+            "bullet4": "$0 to start, if you act today (<del>$99</del> setup fee waived)"
+        },
+        "footer": {
+            "getHelp": "Get Help",
+            "resource": "Resource"
+        },
+        "poweredList": {
+            "alt": "Provider Logo",
+            "poweredBy": "POWERED BY"
+        },
+        "tradesOrgLogo": {
+            "circleAlt": "Circle logo",
+            "letterAlt": "Logo Letter"
+        }
+    },
+    "termsData": {
+        "approvedOrganizations": "Approved organizations may hyperlink to our Website as follows:",
+        "approvedOrganizationsBullets1": "By use of our corporate name; or",
+        "approvedOrganizationsBullets2": "By use of the uniform resource locator being linked to; or",
+        "approvedOrganizationsBullets3": "By use of any other description of our Website being linked to that makes sense within the context and format of content on the linking party’s site.",
+        "contentLiability": "Content Liability",
+        "contentLiabilityText": "We shall not be hold responsible for any content that appears on your Website. You agree to protect and defend us against all claims that is rising on your Website. No link(s) should appear on any Website that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.",
+        "cookies": "Cookies",
+        "cookiesText": "We employ the use of cookies. By accessing Trades.org, you agreed to use cookies in agreement with the Trades.org's Privacy Policy. Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.",
+        "disclaimer": "Disclaimer",
+        "disclaimerBullets1": "limit or exclude our or your liability for death or personal injury;",
+        "disclaimerBullets2": "limit or exclude our or your liability for fraud or fraudulent misrepresentation;",
+        "disclaimerBullets3": "limit any of our or your liabilities in any way that is not permitted under applicable law; or",
+        "disclaimerBullets4": "exclude any of our or your liabilities that may not be excluded under applicable law.",
+        "disclaimerText": "To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website. Nothing in this disclaimer will:",
+        "hyperlinkingToOurContent": "Hyperlinking to our Content",
+        "hyperlinkingToOurContentBullets1": "Government agencies;",
+        "hyperlinkingToOurContentBullets2": "Search engines;",
+        "hyperlinkingToOurContentBullets3": "News organizations;",
+        "hyperlinkingToOurContentBullets4": "Online directory distributors may link to our Website in the same manner as they hyperlink to the Websites of other listed businesses; and",
+        "hyperlinkingToOurContentBullets5": "System wide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity fundraising groups which may not hyperlink to our Web site.",
+        "hyperlinkingToOurContentText": "The following organizations may link to our Website without prior written approval:",
+        "iframe": "iFrames",
+        "iframeText": "Without prior approval and written permission, you may not create frames around our Webpages that alter in any way the visual presentation or appearance of our Website.",
+        "liabilityLimitationsOverview": "The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty. As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.",
+        "license": "License",
+        "licenseBullets1": "Republish material from Trades.org",
+        "licenseBullets2": "Sell, rent or sub-license material from Trades.org",
+        "licenseBullets3": "Reproduce, duplicate or copy material from Trades.org",
+        "licenseBullets4": "Redistribute content from Trades.org",
+        "licenseForUserComments": "You hereby grant Trades.org a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.",
+        "licenseText": "Unless otherwise stated, Trades.org and/or its licensors own the intellectual property rights for all material on Trades.org. All intellectual property rights are reserved. You may access this from Trades.org for your own personal use subjected to restrictions set in these terms and conditions. You must not:",
+        "linkRequestApprovalCriteriaAndProcess": "We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of Trades.org; and (d) the link is in the context of general resource information. These organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party’s site. If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to Trades.org. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.",
+        "linkingPolicyAndCriteria": "These organizations may link to our home page, to publications or to other Website information so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products and/or services; and (c) fits within the context of the linking party’s site. We may consider and approve other link requests from the following types of organizations:",
+        "linkingPolicyAndCriteriaBullets1": "commonly-known consumer and/or business information sources;",
+        "linkingPolicyAndCriteriaBullets2": "dot.com community sites;",
+        "linkingPolicyAndCriteriaBullets3": "associations or other groups representing charities;",
+        "linkingPolicyAndCriteriaBullets4": "online directory distributors;",
+        "linkingPolicyAndCriteriaBullets5": "internet portals;",
+        "linkingPolicyAndCriteriaBullets6": "accounting, law and consulting firms; and",
+        "linkingPolicyAndCriteriaBullets7": "educational institutions and trade associations.",
+        "logoUsageRestrictions": "No use of Trades.org's logo or other artwork will be allowed for linking absent a trademark license agreement.",
+        "removalOfLinksFromOurWebsite": "Removal of links from our website",
+        "removalOfLinksFromOurWebsiteText": "If you find any link on our Website that is offensive for any reason, you are free to contact and inform us any moment. We will consider requests to remove links but we are not obligated to or so or to respond to you directly. We do not ensure that the information on this website is correct, we do not warrant its completeness or accuracy; nor do we promise to ensure that the website remains available or that the material on the website is kept up to date.",
+        "reservationOfRights": "Reservation of Rights",
+        "reservationOfRightsText": "We reserve the right to request that you remove all links or any particular link to our Website. You approve to immediately remove all links to our Website upon request. We also reserve the right to amen these terms and conditions and it’s linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these linking terms and conditions.",
+        "text": "Welcome to Trades.org! These terms and conditions outline the rules and regulations for the use of Trades.org's. By accessing this website we assume you accept these terms and conditions. Do not continue to use Trades.org if you do not agree to take all of the terms and conditions stated on this page. The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: 'Client', 'You' and 'Your' refers to you, the person log on this website and compliant to the Company’s terms and conditions. 'The Company', 'Ourselves', 'We', 'Our' and 'Us', refers to our Company. 'Party', 'Parties', or 'Us', refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.",
+        "userCommentsAndOpinions": "Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. Trades.org does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of Trades.org,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, Trades.org shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website. Trades.org reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.",
+        "youWarrantAndRepresent": "You warrant and represent that:",
+        "youWarrantAndRepresentBullets1": "You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;",
+        "youWarrantAndRepresentBullets2": "The Comments do not invade any intellectual property right, including without limitation copyright, patent or trademark of any third party;",
+        "youWarrantAndRepresentBullets3": "The Comments do not contain any defamatory, libelous, offensive, indecent or otherwise unlawful material which is an invasion of privacy",
+        "youWarrantAndRepresentBullets4": "The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.",
+        "yourPrivacy": "Your Privacy",
+        "yourPrivacyText": "Please read Privacy Policy"
+    },
+    "toughLove": {
+        "alt1": "Vector",
+        "alt2": "cut away",
+        "buildWebsite": {
+            "alt1": "Example Screenshot",
+            "alt2": "ring",
+            "alt3": "Support image",
+            "alt4": "BBB Logo",
+            "paragraph1": "Trades.org is quite simply the only platform that offers an affordable, one-stop solution that requires very little effort to manage. Our competitors will only help you with parts of your marketing, but don’t put themselves on the line to make sure you succeed.",
+            "paragraph2": "We want to make sure your business growth doesn’t plateau. It’s time to gain traction in your industry without spending thousands of dollars a year just to survive.",
+            "paragraph3": "Build your Free website now and let us take you under our wing. If you don’t see results after three months, we will give you your money back.",
+            "paragraph4": "We’ve got your back. We will help you manage your team, marketing, website, and reviews through an easy-to-use dashboard so you can focus on what it is you do best.",
+            "paragraph5": "Our award-winning Concierge Team is here for you 24/7 to answer any questions you may have along your journey.",
+            "paragraph6": "Get your Free, ready-to-launch website to see just how easy it is to grow your business.",
+            "title1": "No one is doing it the way we are.",
+            "title2": "We’re invested in your success.",
+            "title3": "Our best-in-class support",
+            "title4": "is here for you 24/7."
+        },
+        "easyToUse": {
+            "data": {
+                "competitors": "YOUR COMPETITORS",
+                "speciality": "YOUR TRADE SPECIALITY"
+            },
+            "paragraph1": "Our platform was built with trade businesses in mind. We realized trade businesses don’t have any business management tools that are truly in line with their goals.",
+            "paragraph2": "There are plenty of website or social media management services. However, their high subscription fees costs your business a lot of capital and their generic design means you will still spend precious hours managing the subscription. You need a product that is intuitive and designed for your busy and growing business.",
+            "paragraph3": "The truth is there is a lot of competition in the local trade industry. We realize it's hard to stand out, and we crafted our platform to fill the gaps where most businesses fall short. Take marketing and businesses management tasks off your plate with trades.org tailored services for the construction industry.",
+            "title": "Our easy-to-use platform produces advanced results."
+        },
+        "faq": {
+            "title1": "Answers to common",
+            "title2": "questions we receive...",
+            "title3": "Here are some answers to common questions we get..."
+        },
+        "hero": {
+            "alt1": "Plumber",
+            "alt2": "Circular",
+            "paragraph1": "We'll build an attractive website for your business that ranks high on search results and produces quality reviews of your work- all important factors to winning more jobs!",
+            "paragraph2": "Get your Free ready-to-launch website in just minutes...",
+            "paragraph3": "NO OBLIGATIONS, NO CONTRACTS, CANCEL AT ANY TIME",
+            "title1": "We will help you stand out and get more jobs."
+        },
+        "readyToLaunch": {
+            "alt1": "Cut Design",
+            "alt2": "Footer Top",
+            "paragraph": "Get your Free ready-to-launch website in just minutes and start getting results!",
+            "title": "Ready to dominate your local trade industry?"
+        },
+        "testimonials": {
+            "alt": "Reviewer Image",
+            "data": {
+                "body1": "“This is exactly what our business needed. We just didn't have the knowledge or time to invest in website management. Our sales have gone up 28% in the last six months since we started using trades.org!”",
+                "body2": "“Excellent customer service and most importantly, this platform was super easy for us to use. I’ve been so busy helping with client support and getting out in the field to do plumbing, I haven't been able to give our website and marketing efforts any real attention. But now that we solved things with trades.org, we are running smoothly.”",
+                "body3": "“It just works. You get a subscription and let them do their thing. I’m very pleased!”",
+                "body4": "“I’ve been a plumber for over 25 years and it wasn't till my 26th year that I decided to get a website and marketing help, and let me tell you I’m thrilled with the results!”",
+                "body5": "“I decided to start my own business as an electrician and trades.org made it very easy to do so. It’s a great tool!”",
+                "body6": "“Before, I wasn’t getting enough work and was stressed about running the business. Today, I have twice as many clients that are happy and returning for more work.”",
+                "position1": "Subcontractor",
+                "position2": "Plumbing Tech",
+                "position3": "General Contractor",
+                "position4": "Plumber",
+                "position5": "Electrician",
+                "position6": "Developer"
+            },
+            "title": "Here’s what our customers are saying about us..."
+        },
+        "tradePro": {
+            "alt1": "Directions Image",
+            "alt2": "Trade Pro Image",
+            "reviews": "STAR REVIEWS"
+        }
+    }
+}
+

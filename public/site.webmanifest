@@ -1,0 +1,16 @@
+{
+    "name": "Trades.org",
+    "short_name": "Trades.org",
+    "description": "Trades.org website",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#00BDFF",
+    "icons": [
+        {
+            "src": "/favicon.ico",
+            "sizes": "any",
+            "type": "image/x-icon"
+        }
+    ]
+}

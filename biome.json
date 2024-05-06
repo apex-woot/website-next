@@ -1,0 +1,117 @@
+{
+    "$schema": "https://biomejs.dev/schemas/1.6.1/schema.json",
+    "organizeImports": {
+        "enabled": true
+    },
+    "formatter": {
+        "enabled": true,
+        "formatWithErrors": false,
+        "indentStyle": "space",
+        "indentWidth": 4,
+        "lineWidth": 140,
+        "lineEnding": "lf",
+        "ignore": ["*.graphql", "@generated"]
+    },
+    "linter": {
+        "enabled": true,
+        "rules": {
+            "recommended": true,
+            "style": {
+                "noParameterAssign": "warn",
+                "useImportType": "off",
+                "noNonNullAssertion": "warn",
+                "noUselessElse": "warn"
+            },
+            "suspicious": {
+                "noExplicitAny": "warn",
+                "noImplicitAnyLet": "warn",
+                "noShadowRestrictedNames": "warn",
+                "noAssignInExpressions": "warn",
+                "noArrayIndexKey": "warn",
+                "noPrototypeBuiltins": "off",
+                "noThenProperty": "warn",
+                "noConfusingVoidType": "warn"
+            },
+            "correctness": {
+                "useExhaustiveDependencies": "warn",
+                "noUnsafeOptionalChaining": "warn",
+                "noUnreachable": "warn"
+            },
+            "complexity": {
+                "noStaticOnlyClass": "off",
+                "noUselessConstructor": "warn",
+                "noUselessCatch": "warn",
+                "noForEach": "warn",
+                "noBannedTypes": "warn"
+            },
+            "performance": {
+                "noAccumulatingSpread": "warn",
+                "noDelete": "warn"
+            },
+            "a11y": {
+                "useKeyWithClickEvents": "warn",
+                "noSvgWithoutTitle": "warn",
+                "useValidAnchor": "warn",
+                "useButtonType": "warn",
+                "useAltText": "warn",
+                "useHtmlLang": "warn"
+            }
+        }
+    },
+    "javascript": {
+        "formatter": {
+            "quoteStyle": "single"
+        },
+        "parser": {
+            "unsafeParameterDecoratorsEnabled": true
+        }
+    },
+    "json": {
+        "parser": {
+            "allowComments": true
+        }
+    },
+    "files": {
+        "ignoreUnknown": true,
+        "ignore": [
+            "*.cjs",
+            "*.mjs",
+            ".yarn",
+            ".esbuild",
+            "prisma-client",
+            "node_modules",
+            ".cache",
+            "@generated",
+            ".graphql",
+            "dist",
+            "localazy",
+            ".webpack",
+            ".serverless",
+            "*.config.js",
+            "*.config.ts",
+            "*.preset.js",
+            "*.preset.ts",
+            "federated-graphql.ts",
+            "abstractions-graphql.ts",
+            "graphql.ts",
+            "devops/pulumi/ai-agents-api",
+            "devops/pulumi/ws-proxy",
+            "devops/pulumi/**/src/**/*",
+            "libs/design-system/package.json",
+            "libs/shared-design-system/package.json"
+        ],
+        "include": [
+            "src",
+            "*.config.js",
+            "*.config.cjs",
+            "*.config.mjs",
+            "*.config.ts",
+            "package.json",
+            "project.json",
+            "tsconfig.json",
+            "tsconfig.*.json",
+            "*.config.json",
+            ".storybook"
+        ]
+    }
+}

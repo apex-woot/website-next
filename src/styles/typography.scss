@@ -1,0 +1,69 @@
+@import './config.scss';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@200;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: $base;
+    font-family: $font-family-heading;
+    line-height: 1.33;
+    margin: 0;
+}
+
+button {
+    &:focus {
+        outline: none;
+    }
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    color: $base;
+    font-size: $font-base;
+    font-family: $font-family-base;
+    font-weight: 300;
+    scroll-behavior: smooth;
+}
+
+h1 {
+    font-size: 3.15vw;
+    font-weight: bold;
+    line-height: 1.3333;
+    font-family: $font-family-heading-h1;
+    @media (max-width: 1199px) {
+        font-size: 2rem;
+    }
+}
+
+h2 {
+    font-size: 2.25vw;
+    font-weight: 400;
+    font-family: $font-family-base;
+    @media (max-width: 1199px) {
+        font-size: 1.5rem;
+    }
+}
+
+h3 {
+    font-size: 2.25vw;
+}
+
+span {
+    &:focus {
+        outline: none !important;
+    }
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
